@@ -1,0 +1,1471 @@
+Department,JobRole,AgeGroup,SalaryGroup,EstimatedMonthlySalary,BusinessTravel,OverTime,Attrition,Gender
+Sales,Sales Executive,36-45,High,59930,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Scientist,46-60,High,51300,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,20900,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,29090,Travel Frequently,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,34680,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,30680,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,26700,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Low,26930,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,Very High,95260,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,52370,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,24260,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,41930,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,29110,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,26610,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,20280,Travel Rarely,Yes,Yes,Male
+Research & Development,Manufacturing Director,26-35,Very High,99800,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,32980,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,29350,Non-Travel,Yes,No,Male
+Sales,Manager,46-60,Very High,154270,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,39440,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,18-25,Medium,40110,Non-Travel,No,No,Female
+Sales,Sales Representative,36-45,Medium,34070,Travel Rarely,No,Yes,Male
+Research & Development,Research Director,26-35,Very High,119940,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,18-25,Low,12320,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,29600,Travel Rarely,No,Yes,Male
+Research & Development,Manager,46-60,Very High,190940,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,39190,Travel Frequently,Yes,Yes,Female
+Sales,Sales Executive,36-45,High,68250,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,102480,Travel Rarely,No,No,Female
+Sales,Manager,46-60,Very High,189470,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,24960,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,64650,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,22060,Travel Rarely,No,No,Male
+Sales,Sales Representative,36-45,Low,20860,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,18-25,Low,22930,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,36-45,Low,26450,Travel Rarely,No,No,Female
+Sales,Sales Representative,46-60,Low,26830,Travel Rarely,Yes,Yes,Male
+Sales,Sales Representative,26-35,Low,20140,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,34190,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,53760,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,19510,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23410,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,22930,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,26-35,Very High,87260,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,40110,Travel Frequently,No,No,Female
+Research & Development,Research Director,36-45,Very High,195450,Travel Rarely,No,Yes,Female
+Sales,Sales Executive,26-35,Medium,45680,Non-Travel,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,30220,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,57720,Travel Frequently,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,22690,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,High,53810,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,26-35,Medium,34410,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,54540,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,26-35,Very High,98840,Non-Travel,Yes,No,Male
+Sales,Sales Executive,26-35,Medium,41570,Travel Rarely,Yes,No,Female
+Research & Development,Research Director,26-35,Very High,134580,Travel Frequently,Yes,No,Female
+Sales,Sales Executive,26-35,Very High,90690,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,40140,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,High,59150,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,59930,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,61620,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,24060,Travel Frequently,No,No,Female
+Research & Development,Research Director,46-60,Very High,187400,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,46-60,High,76370,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,Very High,100960,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,147560,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,High,64990,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,Very High,97240,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,21940,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,33880,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,46-60,High,54730,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Low,27030,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,25010,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,62200,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,30380,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,44240,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,43120,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,132450,Travel Rarely,Yes,No,Male
+Research & Development,Research Director,36-45,Very High,136640,Travel Rarely,No,No,Male
+Human Resources,Human Resources,46-60,High,50210,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,High,51260,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Low,28590,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,Very High,102390,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,High,53290,Non-Travel,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,43250,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,High,72600,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,23220,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,20750,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,Medium,41520,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,Very High,96190,Travel Rarely,No,Yes,Male
+Research & Development,Healthcare Representative,36-45,Very High,135030,Travel Frequently,No,No,Male
+Sales,Sales Executive,46-60,High,54410,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,High,52090,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,106730,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,26-35,High,50100,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,135490,Travel Rarely,No,No,Female
+Sales,Sales Executive,18-25,High,49990,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,42210,Non-Travel,No,No,Male
+Sales,Sales Executive,46-60,Very High,138720,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,20420,Non-Travel,No,No,Male
+Human Resources,Human Resources,36-45,Low,20730,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,29560,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,29260,Travel Frequently,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Medium,48090,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,51630,Non-Travel,No,No,Male
+Human Resources,Manager,46-60,Very High,188440,Non-Travel,No,No,Female
+Research & Development,Research Director,46-60,Very High,181720,Travel Frequently,Yes,No,Female
+Sales,Sales Executive,18-25,High,57440,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,18-25,Low,28890,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,28710,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,46-60,High,74840,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,26-35,High,60740,Travel Frequently,Yes,Yes,Male
+Human Resources,Manager,46-60,Very High,173280,Non-Travel,Yes,No,Female
+Research & Development,Laboratory Technician,18-25,Low,27740,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,45050,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,74280,Travel Rarely,No,No,Male
+Research & Development,Manager,26-35,Very High,116310,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,97380,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,28350,Travel Rarely,No,No,Female
+Sales,Manager,36-45,Very High,169590,Travel Frequently,Yes,No,Male
+Research & Development,Research Scientist,26-35,Low,26130,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,High,61460,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,High,49630,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Director,46-60,Very High,195370,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,61720,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,23680,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,103120,Travel Rarely,No,Yes,Female
+Sales,Sales Representative,18-25,Low,16750,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,18-25,Low,25230,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,High,65670,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,47390,Travel Frequently,No,No,Female
+Sales,Sales Executive,46-60,Very High,92080,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,Medium,45590,Travel Rarely,Yes,Yes,Female
+Sales,Sales Executive,36-45,High,81890,Travel Rarely,Yes,No,Male
+Human Resources,Human Resources,26-35,Medium,29420,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,49410,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,106500,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,36-45,High,59020,Travel Rarely,No,No,Female
+Sales,Sales Executive,18-25,Very High,86390,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,High,63470,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,42000,Travel Rarely,No,Yes,Female
+Research & Development,Research Scientist,36-45,Medium,34520,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,43170,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,26320,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,46680,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,32040,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,27200,Travel Rarely,No,No,Male
+Research & Development,Manager,36-45,Very High,171810,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,22380,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,14830,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,High,56050,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,72950,Travel Rarely,No,No,Male
+Sales,Sales Representative,46-60,Low,23060,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,23480,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,89980,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,43190,Non-Travel,No,No,Male
+Research & Development,Manufacturing Director,46-60,High,61320,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,46-60,Medium,33460,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,Very High,108550,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,22310,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,18-25,Low,23230,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,20240,Non-Travel,No,No,Male
+Research & Development,Research Scientist,26-35,Low,27130,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,94390,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Low,25660,Non-Travel,Yes,No,Male
+Research & Development,Manager,46-60,Very High,199260,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Low,24510,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,94190,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,86860,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,30380,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,30580,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,18-25,Low,23250,Travel Frequently,No,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,20880,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,30720,Non-Travel,No,No,Male
+Sales,Sales Executive,36-45,High,50060,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,46-60,Medium,42570,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,25000,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,11020,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,46-60,Very High,104530,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,22880,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,39290,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,23110,Travel Rarely,No,No,Female
+Sales,Sales Representative,36-45,Medium,31400,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,46-60,Medium,36900,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,Medium,44500,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,27560,Travel Rarely,No,No,Female
+Research & Development,Manager,36-45,Very High,190330,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,187220,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,95470,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,137340,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,199990,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,22790,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,59160,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,36-45,Low,20890,Non-Travel,No,No,Male
+Research & Development,Manager,36-45,Very High,167920,Non-Travel,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,35640,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,44250,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,52650,Non-Travel,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,65530,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,62610,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Medium,42980,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,46-60,High,68040,Non-Travel,Yes,No,Male
+Research & Development,Research Scientist,26-35,Medium,38150,Travel Frequently,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,27410,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,36-45,High,66730,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,26-35,High,76390,Travel Rarely,No,Yes,Female
+Research & Development,Research Scientist,18-25,Low,23280,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,21530,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,36-45,Medium,48760,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,93960,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,104000,Travel Rarely,No,Yes,Male
+Research & Development,Manufacturing Director,26-35,Very High,84740,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,Very High,99810,Travel Frequently,No,No,Female
+Research & Development,Research Director,46-60,Very High,124900,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,26570,Travel Rarely,Yes,Yes,Female
+Sales,Manager,36-45,Very High,135910,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,66960,Travel Frequently,No,Yes,Female
+Research & Development,Research Scientist,26-35,Low,20580,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,36-45,Very High,88650,Non-Travel,No,No,Female
+Sales,Sales Executive,46-60,High,59400,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,High,59140,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,26220,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,121850,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,36-45,Very High,106090,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Medium,43450,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,Low,21770,Travel Rarely,No,No,Male
+Sales,Sales Representative,36-45,Low,27930,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,High,79180,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,Very High,87890,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Low,23890,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,46-60,Medium,32120,Travel Rarely,No,No,Female
+Research & Development,Manager,36-45,Very High,192320,Travel Rarely,No,No,Male
+Human Resources,Human Resources,46-60,Low,22670,Travel Rarely,No,No,Male
+Sales,Manager,46-60,Very High,195170,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,24360,Travel Rarely,Yes,Yes,Male
+Sales,Manager,36-45,Very High,160640,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Low,27070,Travel Rarely,No,Yes,Female
+Sales,Manager,46-60,Very High,190680,Non-Travel,Yes,No,Male
+Sales,Sales Representative,26-35,Medium,39310,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,37300,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,36-45,Low,22320,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,44650,Non-Travel,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,30720,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,33190,Travel Rarely,No,No,Male
+Research & Development,Manager,36-45,Very High,192020,Travel Rarely,No,No,Male
+Research & Development,Research Director,26-35,Very High,136750,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Low,29110,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,59570,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,39200,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,64340,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,36-45,Very High,100480,Travel Frequently,No,Yes,Male
+Research & Development,Healthcare Representative,36-45,Very High,109380,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Low,23400,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,High,65450,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,69310,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,18-25,Medium,48980,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,25930,Travel Rarely,Yes,No,Female
+Research & Development,Research Director,36-45,Very High,194360,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,46-60,Low,27230,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,34790,Travel Frequently,No,Yes,Male
+Research & Development,Laboratory Technician,26-35,Low,27940,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,High,52490,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,21760,Travel Rarely,No,No,Male
+Sales,Manager,46-60,Very High,168720,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,34850,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,26-35,High,66440,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,55820,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,18-25,Medium,40000,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,134960,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,32100,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,190450,Travel Rarely,Yes,No,Male
+Research & Development,Manager,46-60,Very High,118490,Non-Travel,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,20700,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,65020,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Medium,32300,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,136030,Non-Travel,Yes,No,Female
+Research & Development,Manager,26-35,Very High,119960,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,56050,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,High,63970,Travel Frequently,No,No,Female
+Research & Development,Research Director,46-60,Very High,191440,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,175840,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,36-45,Medium,49070,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,45540,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,46-60,High,54150,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,26-35,Medium,47410,Travel Frequently,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,21150,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,31610,Travel Frequently,Yes,Yes,Male
+Research & Development,Healthcare Representative,36-45,High,57450,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23730,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,33100,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,186650,Travel Frequently,Yes,No,Female
+Research & Development,Research Scientist,36-45,Medium,44850,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,27890,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,58280,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,36-45,Low,23260,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,36-45,Very High,135250,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,18-25,Low,14200,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,26-35,High,80200,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,36880,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,46-60,High,54820,Travel Rarely,No,No,Male
+Sales,Manager,36-45,Very High,160150,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,12000,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,26-35,High,56610,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,69290,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,96130,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,56740,Non-Travel,No,No,Female
+Sales,Sales Executive,26-35,High,54840,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,120610,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,46-60,High,56600,Non-Travel,Yes,No,Male
+Research & Development,Research Scientist,26-35,Medium,48210,Travel Rarely,Yes,No,Male
+Human Resources,Human Resources,26-35,High,64100,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,52100,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Low,26950,Travel Rarely,Yes,No,Male
+Research & Development,Manager,26-35,Very High,118780,Travel Frequently,No,No,Female
+Research & Development,Manager,36-45,Very High,170680,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,24550,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,139640,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,46-60,High,49410,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,26-35,Low,24780,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,52280,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,Medium,44780,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,High,75470,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,50550,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,34640,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,High,57750,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,Very High,89430,Travel Frequently,No,No,Female
+Research & Development,Manager,36-45,Very High,192720,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,High,52380,Travel Rarely,Yes,Yes,Female
+Sales,Sales Executive,26-35,Medium,46820,Travel Frequently,No,No,Male
+Research & Development,Research Director,46-60,Very High,183000,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,52570,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,63490,Non-Travel,Yes,No,Male
+Research & Development,Research Scientist,46-60,Medium,48690,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,36-45,Very High,99850,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,36970,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,74570,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,21190,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,26-35,Medium,39830,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,61180,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,62140,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,63470,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,115100,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,26-35,High,71430,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,82680,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,High,80950,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Low,29040,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,60320,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,46-60,Medium,29760,Travel Frequently,No,No,Male
+Research & Development,Research Director,36-45,Very High,159920,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,46490,Non-Travel,No,No,Male
+Human Resources,Human Resources,36-45,Low,26960,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23700,Travel Rarely,No,No,Female
+Sales,Manager,46-60,Very High,125040,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,High,59740,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,Medium,47360,Non-Travel,Yes,No,Female
+Sales,Sales Executive,26-35,High,52960,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,67810,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,21740,Travel Frequently,Yes,Yes,Female
+Sales,Sales Executive,36-45,High,66530,Non-Travel,No,No,Female
+Sales,Sales Executive,36-45,Very High,96990,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,46-60,High,67550,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,22130,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,18-25,Low,26100,Non-Travel,No,No,Male
+Sales,Sales Representative,26-35,Low,28510,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Medium,34520,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,46-60,High,52580,Non-Travel,No,No,Female
+Sales,Sales Executive,36-45,Very High,93550,Travel Frequently,No,Yes,Male
+Research & Development,Healthcare Representative,46-60,Very High,104960,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,63800,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,26570,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,18-25,Low,27160,Travel Rarely,No,Yes,Female
+Research & Development,Research Scientist,26-35,Low,22010,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,65400,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,38160,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,52530,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,109650,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,49360,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Low,25430,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,53040,Non-Travel,Yes,Yes,Male
+Research & Development,Manager,46-60,Very High,166590,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,18-25,Medium,42600,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,26-35,Low,24760,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,31020,Travel Frequently,No,Yes,Male
+Research & Development,Research Scientist,18-25,Low,22440,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,75960,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,22850,Travel Frequently,Yes,Yes,Male
+Research & Development,Laboratory Technician,36-45,Medium,30340,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,57150,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,25760,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,Medium,41970,Travel Rarely,Yes,No,Male
+Research & Development,Research Director,36-45,Very High,143360,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,34480,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,194060,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,65380,Non-Travel,No,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,43060,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,22580,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,36-45,Medium,45220,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,18-25,Medium,44870,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,36-45,Medium,44490,Non-Travel,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Low,22180,Travel Rarely,No,No,Male
+Research & Development,Manager,36-45,Very High,191970,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,46-60,Very High,132120,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,65770,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,83920,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,45580,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,40310,Travel Rarely,No,Yes,Male
+Research & Development,Manufacturing Director,46-60,High,79690,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,26540,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,165550,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,45560,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,60910,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,195660,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,46-60,Medium,48100,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,Medium,45230,Travel Frequently,No,No,Female
+Sales,Sales Representative,18-25,Medium,32020,Travel Rarely,Yes,Yes,Female
+Sales,Sales Representative,26-35,Low,23510,Travel Frequently,No,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,17020,Travel Frequently,Yes,No,Male
+Sales,Manager,36-45,Very High,180410,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,28860,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,20970,Non-Travel,No,No,Male
+Research & Development,Research Director,26-35,Very High,119350,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,25460,Travel Rarely,No,Yes,Female
+Human Resources,Human Resources,18-25,Low,25640,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,26-35,Very High,84120,Non-Travel,No,No,Female
+Sales,Manager,46-60,Very High,141180,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,170460,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,25640,Non-Travel,No,No,Female
+Sales,Sales Executive,46-60,Very High,102660,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,46-60,High,50700,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,178610,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,42300,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Medium,37800,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,27680,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,Very High,90710,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,Very High,106480,Travel Rarely,No,No,Male
+Research & Development,Manager,26-35,Very High,136100,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,26-35,Medium,34080,Travel Rarely,No,Yes,Male
+Sales,Sales Representative,26-35,Medium,29830,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,76320,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,26-35,Very High,98240,Travel Frequently,No,Yes,Male
+Human Resources,Human Resources,26-35,Very High,99500,Travel Frequently,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,20930,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,Very High,99800,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,38940,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,46-60,Medium,40510,Travel Rarely,No,No,Female
+Sales,Manager,46-60,Very High,168350,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,62300,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,Medium,47170,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,Very High,132370,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,37550,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,65820,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,36-45,High,74060,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,36-45,Medium,48050,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,Low,27410,Travel Frequently,Yes,Yes,Female
+Research & Development,Manufacturing Director,26-35,Medium,42620,Travel Rarely,No,No,Male
+Research & Development,Research Director,26-35,Very High,161840,Travel Rarely,No,No,Female
+Sales,Manager,26-35,Very High,115570,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,18780,Travel Frequently,Yes,Yes,Male
+Sales,Sales Executive,36-45,Very High,109320,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,68110,Non-Travel,Yes,No,Female
+Sales,Sales Executive,26-35,Medium,43060,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,48590,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,53370,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23400,Travel Rarely,Yes,Yes,Male
+Research & Development,Manufacturing Director,36-45,High,74910,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,105270,Travel Frequently,No,No,Female
+Sales,Manager,36-45,Very High,165950,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,88340,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,High,55770,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,Medium,47070,Non-Travel,No,Yes,Male
+Sales,Sales Representative,18-25,Low,24000,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,98240,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,64470,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,195020,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Low,27250,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,High,62720,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,21270,Travel Rarely,No,No,Male
+Human Resources,Manager,46-60,Very High,182000,Travel Frequently,No,No,Male
+Sales,Sales Representative,18-25,Low,20960,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,28860,Travel Frequently,Yes,Yes,Female
+Sales,Sales Representative,26-35,Low,20330,Travel Frequently,No,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,36220,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,Medium,42330,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,26-35,Medium,36810,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,54600,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,21870,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,96020,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Low,28360,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,Medium,40890,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,166270,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,26190,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,High,56790,Travel Frequently,Yes,No,Male
+Research & Development,Manager,46-60,Very High,154020,Travel Rarely,No,No,Female
+Human Resources,Human Resources,36-45,High,59850,Travel Rarely,No,No,Female
+Sales,Sales Representative,26-35,Low,25790,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,26-35,Medium,30410,Travel Rarely,No,Yes,Male
+Sales,Sales Representative,18-25,Medium,34470,Travel Rarely,No,No,Male
+Research & Development,Manager,36-45,Very High,195130,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Low,27730,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,71040,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,63220,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,20830,Travel Frequently,No,No,Female
+Sales,Sales Executive,46-60,Very High,83810,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,26910,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,42860,Travel Frequently,No,Yes,Female
+Research & Development,Laboratory Technician,26-35,Low,26590,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,Very High,94340,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,55610,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,High,66460,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,77250,Travel Frequently,No,No,Male
+Human Resources,Human Resources,46-60,Very High,107250,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,Very High,88470,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Low,20450,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Low,10090,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,33480,Travel Frequently,Yes,Yes,Male
+Research & Development,Laboratory Technician,26-35,Low,12810,Non-Travel,No,No,Male
+Research & Development,Research Scientist,18-25,Low,28190,Travel Rarely,No,No,Male
+Sales,Sales Executive,18-25,Medium,48510,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,40280,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,27200,Travel Frequently,No,No,Male
+Sales,Sales Executive,46-60,High,81200,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,46470,Travel Frequently,Yes,No,Female
+Research & Development,Research Scientist,36-45,Medium,46800,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Medium,32210,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,26-35,Very High,86210,Travel Rarely,No,No,Female
+Sales,Sales Executive,18-25,Medium,45770,Travel Rarely,No,Yes,Female
+Research & Development,Healthcare Representative,36-45,Medium,45530,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,53960,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,67960,Travel Frequently,Yes,Yes,Male
+Research & Development,Healthcare Representative,36-45,High,76250,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,74120,Travel Rarely,No,No,Female
+Research & Development,Research Director,26-35,Very High,111590,Travel Rarely,No,No,Female
+Sales,Sales Executive,46-60,High,49600,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,104750,Travel Frequently,Yes,No,Male
+Research & Development,Research Director,46-60,Very High,148140,Travel Rarely,No,No,Male
+Human Resources,Manager,36-45,Very High,191410,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,54050,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,87930,Travel Frequently,No,No,Male
+Human Resources,Manager,36-45,Very High,191890,Travel Rarely,No,No,Male
+Sales,Sales Representative,46-60,Medium,38750,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,22160,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Director,36-45,Very High,117130,Non-Travel,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,78610,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,37080,Non-Travel,No,No,Male
+Sales,Sales Executive,46-60,Very High,137700,Travel Frequently,Yes,No,Female
+Sales,Sales Executive,26-35,High,53040,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,26420,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,27590,Travel Frequently,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,68040,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,61420,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Low,25000,Travel Rarely,No,No,Male
+Human Resources,Human Resources,36-45,High,63890,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,111030,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,23420,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,26-35,High,68110,Travel Rarely,No,No,Female
+Sales,Sales Representative,26-35,Low,22970,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,24500,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,50930,Non-Travel,No,No,Female
+Research & Development,Laboratory Technician,26-35,High,53090,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,30570,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,26-35,High,51210,Travel Rarely,No,No,Female
+Sales,Manager,46-60,Very High,168560,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,26860,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,18-25,High,61800,Travel Rarely,No,No,Female
+Sales,Sales Representative,36-45,High,66320,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Medium,35050,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,63970,Travel Frequently,Yes,Yes,Female
+Sales,Sales Executive,26-35,High,62740,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,198590,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,75870,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,Medium,42580,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,43640,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,26-35,Medium,43350,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,53260,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,32800,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,46-60,High,54850,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,Medium,43420,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,Low,27820,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,High,59800,Travel Frequently,Yes,No,Female
+Research & Development,Research Scientist,26-35,Medium,43810,Travel Rarely,No,No,Female
+Sales,Sales Representative,26-35,Low,25720,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,38330,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,Medium,42440,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,65000,Travel Rarely,No,No,Female
+Research & Development,Manager,36-45,Very High,184300,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,16010,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,18-25,Low,26940,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,46-60,Medium,31490,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,176390,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23190,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Director,26-35,Very High,116910,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,53240,Travel Rarely,No,Yes,Female
+Research & Development,Manager,46-60,Very High,167520,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,High,52280,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,27000,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,192460,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,25060,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,60620,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Medium,43820,Travel Rarely,No,Yes,Male
+Human Resources,Human Resources,36-45,Low,21430,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,61620,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,High,50940,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,68770,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,36-45,Low,22740,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,Medium,44340,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,62880,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Low,25530,Travel Frequently,No,No,Female
+Sales,Sales Executive,46-60,High,76540,Travel Rarely,No,Yes,Female
+Sales,Sales Executive,46-60,High,51600,Travel Rarely,No,Yes,Male
+Research & Development,Research Director,36-45,Very High,171590,Travel Rarely,No,No,Male
+Research & Development,Research Director,26-35,Very High,128080,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,102210,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,47790,Travel Rarely,Yes,No,Female
+Human Resources,Human Resources,26-35,Medium,37370,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,23660,Travel Frequently,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Low,17060,Non-Travel,No,No,Male
+Sales,Manager,46-60,Very High,163070,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,59330,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Medium,34240,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,40370,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,25590,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,62010,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,Medium,44030,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,37610,Travel Frequently,No,No,Male
+Sales,Sales Executive,46-60,Very High,109340,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,Very High,107610,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,High,51750,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,46-60,Very High,138260,Travel Frequently,No,No,Female
+Sales,Sales Executive,36-45,High,63340,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,High,49360,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,18-25,Medium,47750,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,28180,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,25150,Travel Frequently,Yes,No,Male
+Human Resources,Human Resources,36-45,Low,23420,Travel Rarely,No,No,Male
+Sales,Sales Executive,18-25,Medium,41940,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,106850,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,20220,Travel Frequently,Yes,Yes,Female
+Research & Development,Laboratory Technician,26-35,Low,23140,Non-Travel,No,No,Male
+Sales,Sales Executive,18-25,Medium,42560,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,46-60,Medium,35800,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Medium,31620,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,High,65240,Travel Frequently,No,No,Male
+Sales,Sales Representative,36-45,Low,28990,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,52310,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,23560,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,26-35,Low,28000,Travel Rarely,Yes,Yes,Female
+Sales,Sales Executive,46-60,Very High,118360,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,109030,Travel Rarely,No,No,Male
+Sales,Sales Representative,36-45,Medium,29730,Travel Frequently,No,No,Female
+Research & Development,Research Director,46-60,Very High,142750,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,55620,Travel Frequently,No,No,Female
+Sales,Sales Executive,46-60,Medium,45370,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,High,76420,Non-Travel,Yes,No,Male
+Research & Development,Manager,46-60,Very High,179240,Non-Travel,No,No,Male
+Human Resources,Human Resources,36-45,High,52040,Travel Rarely,No,No,Female
+Human Resources,Human Resources,26-35,Low,22770,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,27950,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,26-35,Low,25320,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Low,25590,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,Medium,49080,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,23800,Travel Frequently,Yes,Yes,Male
+Research & Development,Manufacturing Director,36-45,Medium,47650,Travel Rarely,No,No,Female
+Sales,Sales Representative,18-25,Low,20440,Travel Rarely,No,Yes,Female
+Research & Development,Research Scientist,18-25,Low,26930,Travel Rarely,No,Yes,Female
+Research & Development,Healthcare Representative,36-45,High,65860,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,46-60,Medium,32940,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,18-25,Medium,41710,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,27780,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Low,23770,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,24040,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,23180,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,20080,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,62440,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,27990,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,105520,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,26-35,Low,23290,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,Medium,40140,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,46-60,High,74030,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,46-60,Low,22590,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,69320,Non-Travel,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,46780,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,135820,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,23320,Non-Travel,No,No,Female
+Sales,Sales Representative,18-25,Low,24130,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,Very High,97050,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,42940,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,47210,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,25190,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,21210,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,18-25,Medium,29730,Travel Rarely,No,Yes,Male
+Research & Development,Healthcare Representative,26-35,High,58550,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,36-45,Medium,36170,Travel Frequently,Yes,No,Male
+Research & Development,Manufacturing Director,26-35,High,67250,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,103250,Travel Rarely,Yes,Yes,Male
+Research & Development,Healthcare Representative,26-35,High,69490,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,106090,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,36-45,Medium,44470,Non-Travel,No,No,Male
+Sales,Sales Representative,26-35,Low,21570,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,Medium,46010,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,170990,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,46-60,Low,24790,Travel Rarely,No,Yes,Male
+Sales,Manager,46-60,Very High,148520,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,72640,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,56660,Non-Travel,Yes,No,Female
+Sales,Sales Executive,26-35,High,78230,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,78800,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,131940,Non-Travel,Yes,Yes,Female
+Research & Development,Manufacturing Director,46-60,High,50670,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,36-45,High,50790,Non-Travel,No,No,Male
+Research & Development,Research Scientist,26-35,Low,23210,Non-Travel,Yes,Yes,Male
+Sales,Manager,26-35,Very High,174440,Non-Travel,No,No,Male
+Research & Development,Research Scientist,26-35,Low,24040,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Medium,34520,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,22700,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,173990,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,54880,Travel Frequently,Yes,No,Female
+Research & Development,Research Director,36-45,Very High,194190,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,28110,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,36330,Non-Travel,Yes,No,Male
+Sales,Sales Executive,46-60,Medium,41630,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,21320,Travel Rarely,Yes,Yes,Female
+Research & Development,Manufacturing Director,46-60,Very High,139730,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,26840,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,108450,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,18-25,Medium,43770,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,37430,Travel Rarely,Yes,Yes,Male
+Research & Development,Manufacturing Director,26-35,Medium,41480,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,18-25,Low,10510,Non-Travel,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,107390,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,26-35,Very High,103880,Travel Rarely,Yes,No,Female
+Research & Development,Research Director,26-35,Very High,114160,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,18-25,Low,26000,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,26-35,Low,24220,Travel Frequently,No,Yes,Female
+Research & Development,Manufacturing Director,26-35,High,54720,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,24510,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Medium,42400,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,109990,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,50030,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,Very High,127420,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,42270,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,39170,Travel Rarely,No,No,Male
+Sales,Manager,36-45,Very High,183030,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,23800,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,137260,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,36-45,Medium,47770,Travel Rarely,No,Yes,Female
+Research & Development,Healthcare Representative,46-60,High,63850,Travel Frequently,Yes,No,Male
+Research & Development,Research Director,36-45,Very High,199730,Non-Travel,No,No,Female
+Sales,Sales Executive,36-45,High,68610,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,High,49690,Non-Travel,No,Yes,Male
+Sales,Manager,46-60,Very High,198450,Travel Rarely,No,Yes,Female
+Sales,Sales Executive,36-45,Very High,133200,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,46-60,High,63470,Non-Travel,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,27430,Travel Rarely,No,Yes,Female
+Research & Development,Manufacturing Director,36-45,Very High,108800,Travel Frequently,Yes,No,Female
+Sales,Sales Representative,26-35,Low,23420,Non-Travel,No,No,Female
+Sales,Manager,36-45,Very High,176500,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,40250,Non-Travel,No,No,Female
+Sales,Sales Executive,26-35,Very High,97250,Travel Rarely,No,No,Male
+Sales,Manager,46-60,Very High,119040,Travel Rarely,Yes,No,Male
+Human Resources,Human Resources,36-45,Low,21770,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,75250,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,48340,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,26-35,Low,20420,Travel Frequently,Yes,Yes,Male
+Sales,Sales Representative,26-35,Low,22200,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,26-35,Low,10520,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,28210,Travel Frequently,No,No,Male
+Research & Development,Research Director,46-60,Very High,192370,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,36-45,Medium,41070,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,83960,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,20070,Travel Frequently,No,No,Female
+Research & Development,Research Director,46-60,Very High,196270,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,Very High,106860,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,46-60,Medium,29420,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,36-45,Very High,88580,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,167560,Non-Travel,No,No,Male
+Sales,Sales Executive,36-45,Very High,107980,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,23230,Travel Frequently,Yes,Yes,Female
+Research & Development,Laboratory Technician,18-25,Low,14160,Travel Rarely,No,Yes,Female
+Research & Development,Research Scientist,46-60,Medium,46150,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,46-60,Low,24610,Travel Rarely,Yes,Yes,Male
+Research & Development,Healthcare Representative,26-35,Very High,87220,Non-Travel,No,Yes,Male
+Research & Development,Laboratory Technician,26-35,Medium,39550,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,99570,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,33760,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,Very High,88230,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,Very High,103220,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,46210,Non-Travel,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,109760,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,36600,Travel Rarely,No,No,Female
+Human Resources,Human Resources,36-45,Very High,104820,Travel Rarely,No,Yes,Male
+Research & Development,Healthcare Representative,26-35,High,71190,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,95820,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,45080,Travel Frequently,No,Yes,Female
+Research & Development,Laboratory Technician,26-35,Low,22070,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,77560,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,High,66940,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,18-25,Medium,36910,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,26-35,Low,23770,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,26-35,Low,23130,Travel Rarely,Yes,Yes,Male
+Research & Development,Manager,36-45,Very High,176650,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,25960,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,46-60,Medium,47280,Travel Frequently,Yes,Yes,Male
+Sales,Sales Executive,26-35,Medium,43020,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,29790,Non-Travel,No,No,Male
+Research & Development,Manager,46-60,Very High,168850,Non-Travel,No,No,Male
+Sales,Sales Executive,36-45,High,55930,Non-Travel,No,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,104450,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,87400,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Low,25140,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,76550,Travel Rarely,No,No,Female
+Sales,Manager,46-60,Very High,174650,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,73510,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,Very High,108200,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,36-45,Very High,121690,Travel Frequently,No,Yes,Male
+Research & Development,Research Director,36-45,Very High,196260,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Low,20700,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,36-45,High,67820,Non-Travel,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,77790,Non-Travel,No,No,Male
+Sales,Sales Representative,26-35,Low,27910,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,32010,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,49680,Travel Frequently,No,No,Male
+Sales,Sales Executive,46-60,Very High,131200,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Medium,40330,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,32910,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,42720,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,50560,Travel Rarely,Yes,No,Male
+Human Resources,Human Resources,36-45,Low,28440,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,27030,Travel Frequently,Yes,No,Male
+Research & Development,Laboratory Technician,18-25,Low,19040,Non-Travel,No,Yes,Male
+Sales,Sales Executive,26-35,High,82240,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Medium,47660,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,26100,Travel Frequently,No,Yes,Male
+Research & Development,Healthcare Representative,36-45,High,57310,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,25390,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,57140,Travel Rarely,No,No,Female
+Human Resources,Human Resources,26-35,Medium,43230,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,73360,Travel Rarely,No,Yes,Female
+Research & Development,Research Director,36-45,Very High,134990,Travel Frequently,No,No,Female
+Sales,Sales Executive,36-45,Very High,137580,Travel Frequently,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,51550,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,22580,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,35970,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,25150,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,26-35,Medium,44200,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,65780,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,44220,Travel Frequently,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,Very High,102740,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,53430,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23760,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,High,53460,Travel Rarely,No,Yes,Female
+Sales,Sales Representative,26-35,Low,28270,Non-Travel,No,No,Female
+Research & Development,Manager,46-60,Very High,199430,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,31310,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,18-25,Low,25520,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,44770,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,High,64740,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Medium,30330,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,29360,Travel Rarely,Yes,Yes,Male
+Research & Development,Manager,46-60,Very High,186060,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,21680,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,18-25,Low,28530,Travel Frequently,Yes,Yes,Male
+Sales,Manager,46-60,Very High,170480,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Low,22900,Non-Travel,No,No,Male
+Human Resources,Human Resources,26-35,Medium,36000,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,21070,Non-Travel,No,Yes,Male
+Sales,Sales Executive,26-35,Medium,41150,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,43270,Travel Frequently,No,No,Male
+Research & Development,Manager,46-60,Very High,178560,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,31960,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,190810,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,89660,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,18-25,Low,22100,Travel Rarely,No,Yes,Female
+Sales,Sales Executive,26-35,Medium,45390,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,27410,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,34910,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,45410,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,26780,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,High,73790,Travel Rarely,No,No,Male
+Human Resources,Human Resources,36-45,High,62720,Non-Travel,No,No,Male
+Sales,Sales Executive,46-60,High,52200,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,27430,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,High,49980,Travel Frequently,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,Very High,102520,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,27810,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,68520,Travel Rarely,No,No,Female
+Sales,Sales Executive,18-25,High,49500,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,35790,Travel Rarely,Yes,No,Male
+Research & Development,Research Director,36-45,Very High,131910,Travel Frequently,Yes,No,Female
+Sales,Sales Executive,26-35,Very High,103770,Non-Travel,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,22350,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,105020,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,36-45,Low,20110,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,18-25,Low,18590,Non-Travel,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Medium,37600,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,177790,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,68330,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,26-35,High,68120,Travel Rarely,No,No,Female
+Sales,Sales Executive,46-60,High,51710,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,197400,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,187110,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,36920,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,25590,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,25170,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,66230,Travel Rarely,Yes,No,Male
+Research & Development,Research Director,46-60,Very High,182650,Travel Rarely,No,No,Male
+Research & Development,Research Director,26-35,Very High,161240,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,25850,Travel Rarely,No,No,Female
+Sales,Manager,36-45,Very High,182130,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,83800,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Medium,29940,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,18-25,Low,12230,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,11180,Travel Frequently,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Low,28750,Travel Rarely,Yes,No,Male
+Sales,Manager,36-45,Very High,188240,Travel Rarely,Yes,Yes,Female
+Research & Development,Healthcare Representative,46-60,Very High,135770,Non-Travel,Yes,No,Male
+Research & Development,Laboratory Technician,18-25,Low,26250,Travel Frequently,No,Yes,Female
+Sales,Manager,46-60,Very High,187890,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,45380,Travel Rarely,Yes,No,Female
+Sales,Manager,46-60,Very High,198470,Travel Frequently,Yes,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,105120,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,44440,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,21540,Travel Frequently,Yes,No,Male
+Research & Development,Manager,36-45,Very High,191900,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,Medium,44900,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,35060,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,23720,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,Very High,102310,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,54100,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,36-45,High,79780,Travel Rarely,No,Yes,Female
+Research & Development,Laboratory Technician,26-35,Medium,38670,Travel Frequently,Yes,No,Male
+Research & Development,Laboratory Technician,46-60,Low,28380,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,46950,Non-Travel,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,33390,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Low,20800,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,18-25,Low,20960,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,62090,Travel Rarely,No,No,Male
+Research & Development,Manager,36-45,Very High,180610,Travel Frequently,No,No,Female
+Research & Development,Manager,36-45,Very High,171230,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,46-60,Low,23720,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,48830,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,36-45,Medium,39040,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,26-35,Medium,46270,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,70940,Travel Rarely,No,No,Female
+Human Resources,Human Resources,46-60,Medium,34230,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,High,66740,Non-Travel,No,No,Female
+Research & Development,Research Director,46-60,Very High,168800,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,Very High,90940,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,46-60,Very High,84460,Travel Rarely,Yes,Yes,Male
+Research & Development,Manager,26-35,Very High,119160,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,Medium,45340,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,98520,Non-Travel,Yes,No,Female
+Sales,Sales Executive,36-45,High,61510,Non-Travel,No,No,Male
+Sales,Sales Representative,26-35,Low,23020,Travel Frequently,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,23620,Travel Rarely,No,Yes,Male
+Research & Development,Manager,36-45,Very High,178610,Non-Travel,Yes,No,Male
+Research & Development,Manager,46-60,Very High,191870,Travel Rarely,No,No,Female
+Human Resources,Manager,46-60,Very High,197170,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,35440,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,26-35,Very High,85000,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,46610,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,41030,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,42490,Travel Frequently,Yes,No,Male
+Human Resources,Manager,46-60,Very High,140260,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,36-45,High,68930,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,61250,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Medium,36690,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,100080,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,23870,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,46390,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,46-60,High,78980,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,25340,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,46-60,Very High,131420,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Low,16110,Non-Travel,No,No,Female
+Research & Development,Laboratory Technician,26-35,High,53630,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,50710,Travel Frequently,No,No,Male
+Sales,Sales Executive,46-60,Very High,136950,Travel Rarely,Yes,Yes,Male
+Research & Development,Manufacturing Director,46-60,Very High,134020,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Low,20290,Non-Travel,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,63770,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,High,54290,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,27850,Travel Frequently,No,Yes,Female
+Sales,Sales Executive,26-35,Medium,46140,Travel Frequently,Yes,Yes,Female
+Research & Development,Research Scientist,36-45,Low,26100,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,66870,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Medium,47240,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,61790,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,61200,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,46-60,Very High,105960,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,High,54670,Travel Frequently,Yes,No,Female
+Research & Development,Research Scientist,36-45,Medium,29960,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,Very High,99980,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,Medium,40780,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,109200,Non-Travel,No,No,Male
+Sales,Sales Executive,18-25,High,62320,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,132470,Travel Frequently,Yes,No,Female
+Research & Development,Research Scientist,36-45,Medium,40810,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,57690,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,23940,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Scientist,26-35,Medium,39040,Travel Rarely,No,No,Male
+Human Resources,Manager,36-45,Very High,167990,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,46-60,Medium,29500,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,36290,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,Very High,93620,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,32290,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,35780,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,High,79880,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Medium,42840,Travel Frequently,No,Yes,Male
+Research & Development,Healthcare Representative,26-35,High,75530,Travel Frequently,Yes,Yes,Female
+Research & Development,Research Director,46-60,Very High,173280,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,197010,Travel Rarely,Yes,No,Female
+Research & Development,Research Director,46-60,Very High,147320,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,92780,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,26-35,Low,13590,Travel Frequently,No,Yes,Female
+Sales,Sales Executive,26-35,Medium,47790,Travel Rarely,No,No,Female
+Research & Development,Research Director,26-35,Very High,164220,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,29960,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Low,12610,Travel Rarely,No,Yes,Female
+Research & Development,Laboratory Technician,26-35,Low,20990,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,58100,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,56470,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,46-60,Medium,34200,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Medium,44000,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,36-45,Medium,35000,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,Low,20660,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,171690,Travel Rarely,No,No,Female
+Sales,Sales Executive,18-25,Medium,41620,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,Very High,92040,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,32940,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Low,21270,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,39750,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,Very High,107930,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,Very High,100960,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,36-45,Medium,36460,Non-Travel,Yes,Yes,Female
+Research & Development,Manufacturing Director,26-35,High,74460,Travel Frequently,No,Yes,Female
+Research & Development,Healthcare Representative,36-45,Very High,108510,Travel Rarely,Yes,No,Male
+Human Resources,Human Resources,26-35,Low,21090,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,37220,Travel Frequently,Yes,Yes,Male
+Research & Development,Manufacturing Director,36-45,Very High,93800,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,46-60,High,54860,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,Low,27420,Travel Rarely,No,Yes,Female
+Research & Development,Research Director,36-45,Very High,137570,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,Very High,84630,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,31620,Non-Travel,No,No,Male
+Research & Development,Research Director,46-60,Very High,165980,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,High,66510,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,23450,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,34200,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,43730,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,Medium,47590,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,53010,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,36730,Travel Frequently,No,No,Female
+Sales,Sales Executive,36-45,Medium,47680,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Low,12740,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,Medium,49000,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,104660,Travel Rarely,No,No,Male
+Research & Development,Research Director,26-35,Very High,170070,Travel Frequently,No,No,Male
+Sales,Sales Representative,26-35,Low,29090,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,26-35,High,57650,Travel Frequently,No,Yes,Female
+Sales,Sales Executive,26-35,Medium,45990,Travel Rarely,Yes,Yes,Female
+Sales,Sales Representative,26-35,Low,24040,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,31720,Travel Frequently,Yes,Yes,Male
+Sales,Sales Representative,18-25,Low,20330,Non-Travel,No,No,Female
+Research & Development,Manufacturing Director,36-45,Very High,102090,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,26-35,Very High,86200,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,Low,20640,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Medium,40350,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,38380,Travel Rarely,No,No,Female
+Sales,Sales Executive,46-60,Medium,45910,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Low,25610,Travel Frequently,No,Yes,Male
+Research & Development,Research Scientist,26-35,Low,15630,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,48980,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,46-60,Medium,47890,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,31800,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,65490,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,63880,Travel Rarely,Yes,No,Male
+Research & Development,Manager,26-35,Very High,112440,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,160320,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Low,23620,Travel Rarely,No,Yes,Male
+Research & Development,Research Director,36-45,Very High,163280,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,83760,Travel Rarely,No,No,Female
+Sales,Manager,46-60,Very High,166060,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,26-35,Very High,86060,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Low,22720,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,20180,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,26-35,High,70830,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Medium,40840,Travel Frequently,No,Yes,Female
+Research & Development,Research Director,46-60,Very High,144110,Travel Frequently,Yes,No,Male
+Sales,Sales Representative,26-35,Low,23080,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,48410,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,42850,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,Very High,97150,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,43200,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,21320,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,101240,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,36-45,High,54730,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,High,52070,Travel Rarely,Yes,No,Male
+Human Resources,Manager,36-45,Very High,164370,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,18-25,Low,22960,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,Medium,40690,Non-Travel,Yes,No,Male
+Research & Development,Healthcare Representative,36-45,High,74410,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,24300,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,High,58780,Travel Rarely,No,No,Female
+Sales,Sales Representative,36-45,Low,26440,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,46-60,High,64390,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,24510,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,63920,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,97140,Travel Rarely,No,Yes,Male
+Human Resources,Human Resources,36-45,High,60770,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,24500,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,92500,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,20740,Travel Rarely,Yes,Yes,Female
+Research & Development,Manufacturing Director,46-60,Very High,101690,Travel Rarely,No,Yes,Female
+Research & Development,Manufacturing Director,36-45,Medium,48550,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,40870,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,Low,23670,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,29720,Travel Rarely,No,No,Male
+Sales,Manager,46-60,Very High,195860,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,54840,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,20610,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Very High,99240,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,41980,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,68150,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,47230,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,26-35,High,61420,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,High,82370,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,Very High,88530,Travel Frequently,No,No,Male
+Sales,Manager,46-60,Very High,193310,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Low,20730,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,55620,Travel Frequently,Yes,No,Male
+Research & Development,Manager,36-45,Very High,196130,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,34070,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,50630,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,Medium,46390,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,48760,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,26900,Travel Rarely,No,No,Male
+Sales,Manager,46-60,Very High,175670,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,24080,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,18-25,Low,28140,Non-Travel,Yes,No,Female
+Research & Development,Healthcare Representative,46-60,Very High,112450,Travel Frequently,Yes,No,Male
+Research & Development,Research Scientist,26-35,Medium,33120,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,190490,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,21410,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,57690,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,Medium,43850,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,High,53320,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,36-45,Medium,46630,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,Medium,47240,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,46-60,Medium,32110,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,53770,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,40660,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,52080,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Medium,48770,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,18-25,Medium,31170,Travel Rarely,No,No,Male
+Sales,Sales Representative,18-25,Low,15690,Travel Frequently,Yes,Yes,Female
+Human Resources,Manager,46-60,Very High,196580,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Medium,30690,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,Very High,104350,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,26-35,Medium,41480,Non-Travel,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,57680,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,50420,Travel Frequently,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,57700,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,77560,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,Very High,103060,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,36-45,Medium,39360,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,79450,Travel Rarely,Yes,No,Female
+Human Resources,Human Resources,36-45,High,57430,Travel Frequently,Yes,No,Male
+Research & Development,Manager,46-60,Very High,152020,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,High,54400,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,18-25,Medium,37600,Travel Frequently,Yes,No,Female
+Research & Development,Research Scientist,26-35,Medium,35170,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Low,25800,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,21660,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,26-35,High,58690,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,80080,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,18-25,High,52060,Travel Frequently,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,52950,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,164130,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,132690,Travel Rarely,No,No,Female
+Sales,Sales Representative,18-25,Low,27830,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,High,54330,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,20130,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,139660,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,Medium,43740,Non-Travel,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,68420,Travel Rarely,No,No,Male
+Research & Development,Manager,46-60,Very High,174260,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,176030,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,45810,Travel Frequently,Yes,Yes,Male
+Research & Development,Research Scientist,36-45,Medium,47350,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,Medium,41870,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,High,55050,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,54700,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,54760,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,46-60,Low,25870,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,36-45,Low,24400,Travel Frequently,No,No,Female
+Sales,Manager,46-60,Very High,159720,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,153790,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,High,70820,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,18-25,Low,27280,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,53680,Non-Travel,Yes,No,Female
+Research & Development,Healthcare Representative,36-45,High,53470,Travel Rarely,No,No,Male
+Human Resources,Human Resources,36-45,Medium,31950,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,18-25,Medium,39890,Travel Rarely,Yes,Yes,Male
+Research & Development,Laboratory Technician,36-45,Medium,33060,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,46-60,High,70050,Travel Rarely,No,No,Male
+Sales,Sales Representative,46-60,Low,26550,Travel Frequently,Yes,Yes,Female
+Research & Development,Laboratory Technician,26-35,Low,13930,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,26-35,Low,25700,Non-Travel,No,No,Male
+Research & Development,Research Scientist,46-60,Medium,35370,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,39860,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,108830,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,20280,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,95250,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,29290,Travel Rarely,No,No,Female
+Sales,Sales Representative,18-25,Low,22750,Travel Rarely,Yes,Yes,Male
+Research & Development,Healthcare Representative,36-45,High,78790,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,High,49300,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,36-45,High,78470,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Medium,44010,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,92410,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,29740,Travel Rarely,No,No,Female
+Sales,Sales Representative,36-45,Medium,45020,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,Very High,107480,Non-Travel,No,No,Male
+Human Resources,Human Resources,18-25,Low,15550,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,46-60,Very High,129360,Travel Frequently,No,Yes,Male
+Research & Development,Laboratory Technician,26-35,Low,23050,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,167040,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,34330,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,34770,Travel Rarely,No,No,Male
+Human Resources,Human Resources,36-45,High,64300,Non-Travel,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,65160,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,18-25,Medium,39070,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,46-60,High,55620,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,68830,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,28620,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,49780,Non-Travel,No,No,Male
+Sales,Sales Executive,46-60,Very High,103680,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,36-45,High,61340,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,26-35,High,67350,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,18-25,Medium,32950,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,High,52380,Travel Frequently,No,No,Female
+Research & Development,Laboratory Technician,36-45,High,64720,Non-Travel,Yes,No,Male
+Sales,Sales Executive,26-35,Very High,96100,Travel Rarely,No,No,Male
+Sales,Manager,36-45,Very High,198330,Travel Rarely,No,No,Male
+Human Resources,Human Resources,36-45,Very High,97560,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,High,49680,Travel Frequently,No,No,Female
+Human Resources,Human Resources,18-25,Low,21450,Travel Frequently,No,No,Male
+Human Resources,Human Resources,26-35,Low,21800,Travel Frequently,No,Yes,Female
+Sales,Sales Executive,26-35,High,83460,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,34450,Travel Rarely,No,No,Female
+Sales,Sales Representative,26-35,Low,27600,Travel Rarely,No,Yes,Female
+Research & Development,Healthcare Representative,26-35,High,62940,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,26-35,High,71400,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,29320,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,26-35,High,51470,Non-Travel,No,No,Female
+Sales,Sales Executive,46-60,Medium,45070,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Very High,85640,Travel Rarely,Yes,Yes,Female
+Research & Development,Laboratory Technician,36-45,Low,24680,Travel Frequently,No,No,Female
+Sales,Sales Executive,26-35,High,81610,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,26-35,Low,21090,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,26-35,High,52940,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,27180,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,58110,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,24370,Travel Frequently,Yes,Yes,Male
+Research & Development,Laboratory Technician,36-45,Low,27660,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,190380,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,30550,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,36-45,Low,22890,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Medium,40010,Non-Travel,Yes,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,129650,Non-Travel,Yes,No,Female
+Human Resources,Human Resources,36-45,Medium,35390,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,60290,Travel Rarely,No,No,Female
+Sales,Sales Representative,18-25,Low,26790,Travel Rarely,No,Yes,Male
+Research & Development,Laboratory Technician,36-45,Medium,37020,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,18-25,Low,23980,Travel Rarely,Yes,Yes,Female
+Sales,Sales Executive,26-35,High,54680,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,131160,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Medium,41890,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,193280,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,36-45,High,83210,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,23420,Travel Frequently,Yes,Yes,Male
+Human Resources,Human Resources,36-45,Medium,40710,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,58130,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,26-35,Medium,31430,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,20440,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,134640,Travel Rarely,No,No,Male
+Sales,Sales Executive,46-60,High,79910,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,33770,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,55380,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,57620,Non-Travel,No,No,Male
+Human Resources,Human Resources,36-45,Low,25920,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,26-35,High,53460,Travel Frequently,No,Yes,Male
+Research & Development,Manufacturing Director,36-45,Medium,42130,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,36-45,Medium,41270,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,Low,24380,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,68700,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Very High,104470,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,26-35,Very High,96670,Travel Rarely,No,No,Female
+Human Resources,Human Resources,26-35,Low,21480,Travel Rarely,Yes,Yes,Female
+Research & Development,Healthcare Representative,46-60,Very High,89260,Travel Rarely,No,Yes,Female
+Research & Development,Healthcare Representative,36-45,High,65130,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,67990,Travel Rarely,No,No,Male
+Sales,Manager,46-60,Very High,162910,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,27050,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,46-60,Very High,103330,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,36-45,Medium,44480,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,46-60,High,68540,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Very High,96370,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,35910,Travel Rarely,No,No,Female
+Sales,Sales Representative,36-45,High,54050,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,Medium,46840,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,157870,Travel Frequently,Yes,No,Male
+Research & Development,Research Scientist,18-25,Low,15140,Non-Travel,No,No,Female
+Human Resources,Human Resources,26-35,Medium,29560,Travel Rarely,No,Yes,Male
+Human Resources,Human Resources,26-35,Low,23350,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,51540,Non-Travel,No,No,Female
+Research & Development,Research Scientist,36-45,High,69620,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,High,56750,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23790,Travel Frequently,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,38120,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,Medium,46480,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,29360,Non-Travel,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,21050,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,46-60,Very High,85780,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,Low,27060,Non-Travel,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,63840,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,Medium,39680,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,99070,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,46-60,Very High,132250,Travel Rarely,No,No,Female
+Sales,Sales Representative,26-35,Medium,35400,Travel Rarely,No,No,Female
+Human Resources,Human Resources,26-35,Low,28040,Travel Rarely,No,No,Male
+Research & Development,Manager,36-45,Very High,193920,Travel Rarely,No,No,Female
+Research & Development,Research Director,46-60,Very High,196650,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,24390,Travel Frequently,Yes,Yes,Male
+Sales,Sales Executive,46-60,High,73140,Travel Rarely,No,Yes,Female
+Research & Development,Research Scientist,26-35,Medium,47740,Travel Frequently,No,No,Female
+Research & Development,Research Scientist,36-45,Medium,39020,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,46-60,Low,26620,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,28560,Travel Rarely,No,No,Female
+Sales,Sales Representative,26-35,Low,10810,Travel Rarely,No,Yes,Male
+Research & Development,Research Scientist,18-25,Low,24720,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,High,56730,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,41970,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,97130,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,20620,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,42840,Travel Rarely,Yes,No,Male
+Research & Development,Manufacturing Director,26-35,Medium,47880,Travel Rarely,Yes,No,Female
+Research & Development,Manufacturing Director,36-45,High,59060,Travel Rarely,No,No,Female
+Human Resources,Human Resources,36-45,Medium,38860,Travel Frequently,No,No,Male
+Research & Development,Manager,36-45,Very High,168230,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,29330,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,65000,Travel Rarely,No,No,Female
+Research & Development,Manager,46-60,Very High,171740,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,36-45,High,50330,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,23070,Non-Travel,Yes,Yes,Male
+Research & Development,Laboratory Technician,46-60,Low,25870,Travel Rarely,No,Yes,Male
+Sales,Sales Executive,36-45,High,55070,Travel Rarely,No,No,Male
+Sales,Sales Executive,36-45,Medium,43930,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,133480,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,65830,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,High,81030,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,39780,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,25440,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,53990,Travel Frequently,No,No,Male
+Sales,Sales Executive,26-35,High,54870,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,68340,Travel Frequently,Yes,No,Male
+Sales,Sales Representative,26-35,Low,10910,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,36-45,High,57360,Non-Travel,No,No,Female
+Research & Development,Research Scientist,26-35,Low,22260,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,57470,Travel Frequently,Yes,No,Male
+Sales,Sales Executive,26-35,Very High,98540,Travel Rarely,Yes,Yes,Female
+Research & Development,Research Scientist,46-60,High,54670,Non-Travel,No,No,Male
+Sales,Sales Executive,46-60,High,53800,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,51510,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Low,21330,Travel Frequently,Yes,No,Female
+Sales,Manager,46-60,Very High,178750,Travel Rarely,Yes,No,Female
+Research & Development,Research Scientist,26-35,Low,24320,Travel Frequently,Yes,Yes,Female
+Research & Development,Research Scientist,36-45,Medium,47710,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,191610,Travel Frequently,No,No,Male
+Sales,Sales Executive,36-45,High,50870,Travel Rarely,Yes,No,Male
+Human Resources,Human Resources,26-35,Low,28630,Travel Frequently,No,Yes,Female
+Sales,Sales Executive,26-35,High,55610,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,21440,Non-Travel,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,30650,Non-Travel,Yes,No,Male
+Research & Development,Laboratory Technician,36-45,Low,28100,Non-Travel,No,No,Male
+Sales,Sales Executive,26-35,Very High,98880,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,Very High,86280,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,28670,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,53730,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,66670,Non-Travel,No,No,Female
+Research & Development,Research Scientist,26-35,High,50030,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,23670,Travel Rarely,No,Yes,Male
+Sales,Sales Representative,36-45,Low,28580,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,52040,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,26-35,Medium,41050,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,Very High,96790,Travel Rarely,No,No,Male
+Sales,Sales Executive,26-35,High,56170,Travel Frequently,Yes,Yes,Male
+Sales,Sales Executive,46-60,Very High,104480,Travel Rarely,Yes,Yes,Male
+Research & Development,Research Scientist,46-60,Low,28970,Travel Rarely,No,No,Female
+Research & Development,Healthcare Representative,26-35,High,59680,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,36-45,High,75100,Travel Rarely,No,No,Male
+Human Resources,Human Resources,36-45,Medium,29910,Travel Frequently,Yes,No,Male
+Human Resources,Manager,46-60,Very High,196360,Travel Rarely,Yes,No,Male
+Research & Development,Laboratory Technician,26-35,Low,11290,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,Very High,133410,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,43320,Non-Travel,No,No,Male
+Research & Development,Research Director,26-35,Very High,110310,Non-Travel,No,No,Female
+Research & Development,Manufacturing Director,46-60,Medium,44400,Travel Rarely,Yes,No,Female
+Research & Development,Healthcare Representative,18-25,Medium,46170,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Low,26470,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,36-45,High,63230,Travel Frequently,No,No,Female
+Sales,Sales Executive,36-45,High,56770,Travel Rarely,No,No,Female
+Human Resources,Human Resources,18-25,Low,21870,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,37480,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,18-25,Medium,39770,Travel Rarely,Yes,No,Male
+Research & Development,Healthcare Representative,46-60,Very High,86330,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,26-35,Low,20080,Non-Travel,No,No,Male
+Sales,Sales Executive,36-45,Medium,44400,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Medium,30670,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,36-45,High,53210,Travel Frequently,No,No,Male
+Research & Development,Research Scientist,36-45,High,54100,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,27820,Travel Rarely,No,No,Male
+Research & Development,Research Director,46-60,Very High,119570,Non-Travel,No,No,Female
+Research & Development,Laboratory Technician,26-35,Low,26600,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,18-25,Medium,33750,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,High,50980,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,Medium,48780,Travel Rarely,Yes,No,Female
+Research & Development,Laboratory Technician,26-35,Low,28370,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,24060,Travel Rarely,No,No,Male
+Sales,Sales Representative,26-35,Low,22690,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,36-45,Medium,41080,Travel Rarely,No,No,Male
+Research & Development,Research Director,36-45,Very High,132060,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,Very High,104220,Travel Rarely,No,No,Female
+Research & Development,Research Director,36-45,Very High,137440,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,18-25,Medium,49070,Travel Rarely,Yes,No,Female
+Sales,Sales Representative,46-60,Medium,34820,Non-Travel,No,No,Male
+Research & Development,Research Scientist,36-45,Low,24360,Travel Rarely,Yes,No,Male
+Sales,Sales Representative,18-25,Low,23800,Travel Rarely,Yes,No,Male
+Research & Development,Manager,36-45,Very High,194310,Non-Travel,No,No,Male
+Sales,Sales Representative,18-25,Low,17900,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,36-45,High,76440,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,36-45,High,51310,Travel Frequently,No,No,Female
+Research & Development,Healthcare Representative,46-60,High,63060,Non-Travel,No,No,Male
+Research & Development,Research Scientist,26-35,Medium,47870,Travel Rarely,Yes,Yes,Male
+Research & Development,Manager,36-45,Very High,188800,Travel Rarely,No,No,Male
+Research & Development,Laboratory Technician,46-60,Low,23390,Travel Rarely,No,Yes,Male
+Research & Development,Manufacturing Director,36-45,Very High,135700,Travel Rarely,No,No,Female
+Sales,Sales Executive,26-35,High,67120,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,High,54060,Non-Travel,No,No,Male
+Sales,Sales Executive,36-45,Very High,89380,Travel Rarely,No,No,Male
+Research & Development,Research Scientist,26-35,Low,24390,Travel Rarely,No,No,Male
+Human Resources,Human Resources,26-35,Very High,88370,Travel Rarely,Yes,No,Female
+Sales,Sales Executive,36-45,High,53430,Travel Rarely,No,No,Female
+Sales,Sales Executive,46-60,High,67280,Travel Frequently,No,Yes,Male
+Sales,Sales Executive,36-45,High,66520,Travel Rarely,No,No,Female
+Sales,Sales Executive,36-45,Medium,48500,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,36-45,Low,28090,Travel Rarely,No,No,Male
+Research & Development,Healthcare Representative,26-35,High,56890,Travel Frequently,Yes,No,Male
+Research & Development,Research Scientist,36-45,Low,20010,Travel Rarely,No,No,Female
+Research & Development,Research Scientist,26-35,Medium,29770,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,26-35,Medium,40250,Travel Rarely,Yes,No,Male
+Research & Development,Research Scientist,26-35,Medium,37850,Travel Rarely,No,No,Female
+Sales,Sales Executive,46-60,Very High,108540,Travel Rarely,Yes,Yes,Male
+Sales,Sales Executive,36-45,Very High,120310,Travel Rarely,No,No,Female
+Research & Development,Manufacturing Director,26-35,Very High,99360,Non-Travel,No,No,Male
+Sales,Sales Representative,26-35,Medium,29660,Travel Rarely,No,No,Female
+Research & Development,Laboratory Technician,36-45,Low,25710,Travel Frequently,No,No,Male
+Research & Development,Healthcare Representative,36-45,Very High,99910,Travel Rarely,No,No,Male
+Research & Development,Manufacturing Director,26-35,High,61420,Travel Rarely,Yes,No,Male
+Sales,Sales Executive,46-60,High,53900,Travel Frequently,No,No,Male
+Research & Development,Laboratory Technician,26-35,Medium,44040,Travel Rarely,No,No,Male

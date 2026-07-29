@@ -1,0 +1,295 @@
+Department,JobRole,AgeGroup,SalaryGroup,BusinessTravel,OverTime,PredictedAttrition,Probability_of_Leaving,ReplacementCost,FinancialRisk,RiskCategory,EmployeeID,EmployeeName
+Sales,Sales Executive,26-35,Very High,Travel Rarely,No,0,0.065,1523340.0,98892.2,Medium,1041,Ekapad Palan
+Research & Development,Manufacturing Director,46-60,Medium,Travel Rarely,No,0,0.003,801000.0,2111.12,Low,184,Hemangini Mallick
+Human Resources,Human Resources,18-25,Low,Travel Rarely,No,0,0.343,279900.0,95897.04,Medium,1222,Yashawini Mani
+Research & Development,Research Scientist,36-45,Very High,Travel Rarely,No,0,0.013,1750320.0,22495.79,Low,67,Ekavir Bhakta
+Research & Development,Laboratory Technician,36-45,High,Travel Rarely,No,0,0.051,1064520.0,53946.83,Medium,220,Gavin Sant
+Sales,Sales Representative,26-35,Low,Travel Rarely,Yes,0,0.327,464220.0,152024.64,High,494,Ansh Swamy
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,No,0,0.404,761400.0,307818.26,High,430,Saanvi Barad
+Research & Development,Laboratory Technician,36-45,Low,Travel Rarely,No,0,0.034,401760.0,13838.94,Low,240,Chanchal Hans
+Sales,Sales Executive,36-45,Very High,Non-Travel,No,0,0.061,1595700.0,96595.82,Medium,218,Vritti Bir
+Research & Development,Laboratory Technician,26-35,Low,Travel Rarely,No,0,0.014,408420.0,5634.54,Low,49,Xavier Chakrabarti
+Sales,Sales Representative,46-60,Medium,Travel Rarely,Yes,1,0.517,592920.0,306616.81,High,665,Dipta Virk
+Sales,Sales Executive,36-45,Very High,Travel Rarely,No,0,0.053,1841580.0,97367.35,Medium,926,Luke Sawhney
+Research & Development,Healthcare Representative,36-45,High,Travel Rarely,No,0,0.082,1067940.0,87471.01,Medium,617,Indira Hora
+Research & Development,Laboratory Technician,36-45,Low,Travel Rarely,Yes,0,0.038,398340.0,15254.49,Low,361,Jasmit Rao
+Research & Development,Research Scientist,18-25,Medium,Travel Rarely,No,0,0.023,607500.0,14166.71,Low,1423,Thomas Bhargava
+Research & Development,Research Scientist,26-35,High,Travel Frequently,No,0,0.104,894240.0,92594.64,Medium,1244,Darika Dua
+Research & Development,Healthcare Representative,26-35,High,Travel Frequently,Yes,0,0.174,1132920.0,197134.33,High,1250,Warhi Sanghvi
+Research & Development,Laboratory Technician,36-45,Low,Travel Rarely,No,0,0.115,493740.0,56756.97,Medium,752,Udarsh Randhawa
+Research & Development,Manager,46-60,Very High,Non-Travel,Yes,0,0.178,2132820.0,378855.87,High,271,Ayushman Choudhary
+Research & Development,Research Director,26-35,Very High,Travel Frequently,No,0,0.029,3061260.0,90183.23,Medium,1055,Aarnav Oommen
+Research & Development,Laboratory Technician,26-35,Medium,Travel Frequently,No,1,0.557,626220.0,348826.23,High,259,Logan Sarin
+Research & Development,Manufacturing Director,46-60,High,Travel Rarely,No,0,0.003,912600.0,2352.44,Low,428,Jagdish Bora
+Sales,Sales Executive,26-35,Very High,Travel Rarely,No,0,0.044,1656720.0,72837.82,Medium,1026,Rehaan Khanna
+Sales,Sales Executive,36-45,High,Travel Rarely,Yes,0,0.386,1008900.0,389903.23,High,277,Vinaya Lal
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.121,1150560.0,139398.26,High,1105,Dalaja Saraf
+Sales,Manager,46-60,Very High,Travel Rarely,No,0,0.023,3525480.0,80345.98,Medium,1116,Qasim Varty
+Research & Development,Research Scientist,26-35,Low,Travel Rarely,No,0,0.074,417240.0,30682.9,Medium,670,Anvi Dutta
+Sales,Sales Executive,26-35,Medium,Travel Rarely,No,0,0.007,726660.0,5285.73,Low,619,Pranav Khurana
+Research & Development,Research Scientist,36-45,Medium,Travel Rarely,No,0,0.083,615600.0,51323.79,Medium,1046,Lopa Oak
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,No,0,0.03,1072260.0,32090.73,Medium,247,Krisha Shah
+Research & Development,Healthcare Representative,26-35,High,Travel Rarely,No,0,0.008,952920.0,7378.36,Low,1259,Abha Goyal
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,No,0,0.002,984960.0,1985.62,Low,733,Hema Nagarajan
+Research & Development,Healthcare Representative,36-45,Medium,Travel Frequently,No,0,0.002,763920.0,1256.91,Low,582,Vansha Srinivasan
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,No,0,0.025,1348380.0,34079.78,Medium,464,Robert Dey
+Sales,Sales Executive,36-45,High,Travel Rarely,Yes,1,0.528,1104120.0,583195.58,High,1236,Ranbir Chander
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.004,1408140.0,5289.45,Low,704,Baljiwan Gole
+Research & Development,Research Director,36-45,Very High,Non-Travel,No,0,0.0,2476260.0,604.32,Low,1040,Indira Sarna
+Research & Development,Research Scientist,36-45,Low,Non-Travel,No,0,0.206,379260.0,78090.51,Medium,864,Prisha Modi
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,Yes,1,0.859,619380.0,532037.9,High,51,Udant Bath
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,No,0,0.017,646380.0,11029.44,Low,1307,Krishna Parikh
+Sales,Sales Executive,36-45,Very High,Travel Rarely,No,0,0.05,1563480.0,78008.77,Medium,168,Dhriti Ramaswamy
+Sales,Sales Executive,36-45,High,Travel Rarely,No,0,0.107,985140.0,105869.73,Medium,1094,Ekani Dhingra
+Research & Development,Research Scientist,26-35,Medium,Non-Travel,No,0,0.042,735660.0,31055.77,Medium,1113,Ekansh Nayar
+Research & Development,Research Scientist,36-45,Low,Travel Frequently,No,0,0.046,507780.0,23585.21,Low,765,Anay Loke
+Sales,Sales Representative,26-35,Low,Travel Rarely,Yes,1,0.723,513180.0,370875.48,High,363,Vihaan Pandey
+Sales,Sales Executive,36-45,High,Non-Travel,No,0,0.006,944820.0,6104.78,Low,261,Banjeet Halder
+Sales,Sales Executive,36-45,Very High,Travel Rarely,Yes,1,0.823,1636920.0,1346776.5,High,946,Neel Kunda
+Sales,Sales Executive,26-35,High,Travel Rarely,No,1,0.544,958320.0,521584.44,High,591,Zayan Parsa
+Sales,Sales Executive,46-60,High,Travel Frequently,Yes,1,0.525,1223280.0,642012.77,High,528,Pushti Raju
+Research & Development,Research Scientist,18-25,Low,Non-Travel,Yes,0,0.485,334620.0,162197.1,High,892,Kamya Seshadri
+Research & Development,Research Director,46-60,Very High,Travel Rarely,No,0,0.006,3214980.0,18553.42,Low,429,Rajeshri Arora
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,Yes,0,0.161,867780.0,139400.18,High,309,Dalbir D’Alia
+Research & Development,Research Director,46-60,Very High,Travel Rarely,No,0,0.005,3516660.0,17433.55,Low,123,Abeer Vora
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.078,1102500.0,85827.74,Medium,964,Naveen Sachar
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,No,0,0.12,535320.0,64287.23,Medium,1219,Diya Trivedi
+Research & Development,Research Scientist,26-35,High,Travel Frequently,Yes,0,0.095,899640.0,85715.87,Medium,881,Ishwar Varty
+Research & Development,Laboratory Technician,36-45,Low,Travel Rarely,Yes,0,0.418,493380.0,206158.84,High,203,Triveni Warrior
+Research & Development,Healthcare Representative,26-35,High,Travel Frequently,No,0,0.001,1074240.0,1292.26,Low,1398,Imaran Mandal
+Research & Development,Healthcare Representative,26-35,High,Travel Rarely,No,0,0.039,1105560.0,43638.75,Medium,549,Warinder Bala
+Research & Development,Manufacturing Director,36-45,High,Travel Frequently,No,0,0.104,907560.0,94232.25,Medium,1159,Xiti Sha
+Human Resources,Human Resources,36-45,Very High,Travel Rarely,No,0,0.047,1756080.0,82700.88,Medium,1243,Ayush Arya
+Research & Development,Laboratory Technician,18-25,Low,Travel Rarely,No,0,0.5,254880.0,127439.24,Medium,777,Bakhshi Kara
+Research & Development,Manufacturing Director,26-35,High,Travel Frequently,No,0,0.026,1340280.0,35175.27,Medium,1033,Samesh Guha
+Research & Development,Research Director,46-60,Very High,Travel Rarely,No,0,0.0,3175020.0,1464.12,Low,588,Ayaan Chokshi
+Research & Development,Healthcare Representative,36-45,Medium,Travel Rarely,No,0,0.158,859860.0,135540.99,Medium,744,Sara Krishnan
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,Yes,1,0.571,1064880.0,607761.98,High,192,Manan Banik
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.017,1118520.0,18760.12,Low,339,Indira Rattan
+Research & Development,Research Scientist,36-45,Medium,Travel Rarely,Yes,0,0.14,771120.0,107798.27,Medium,1344,Oviya Mukherjee
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,No,0,0.009,595800.0,5276.52,Low,289,Sneha Kala
+Human Resources,Manager,36-45,Very High,Travel Rarely,Yes,0,0.124,2958660.0,366323.07,High,1096,Chandresh Bath
+Sales,Sales Executive,36-45,High,Travel Rarely,No,0,0.179,991260.0,177314.4,High,1355,Samesh Khurana
+Sales,Manager,46-60,Very High,Travel Rarely,No,0,0.079,3410460.0,271029.88,High,29,Vritti Butala
+Sales,Sales Executive,36-45,Very High,Travel Rarely,Yes,0,0.295,1728360.0,509409.98,High,486,Vritti Chahal
+Sales,Sales Executive,26-35,Medium,Travel Rarely,No,0,0.048,776160.0,37487.35,Medium,76,Meera Bahri
+Research & Development,Healthcare Representative,26-35,High,Travel Rarely,Yes,0,0.057,1192140.0,67484.54,Medium,903,Ansh Balakrishnan
+Research & Development,Manager,46-60,Very High,Travel Rarely,Yes,0,0.007,2656080.0,17800.52,Low,65,Advay Mall
+Research & Development,Manufacturing Director,26-35,Medium,Travel Frequently,No,0,0.019,850320.0,16458.81,Low,1146,Mohini Dhaliwal
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.101,1170000.0,118018.78,Medium,583,Charita Sheth
+Research & Development,Manufacturing Director,36-45,Very High,Travel Rarely,Yes,0,0.208,1845360.0,383580.54,High,882,Ayushman Ravel
+Research & Development,Manager,26-35,Very High,Travel Rarely,Yes,0,0.134,2144880.0,288421.07,High,948,Girindra Pillay
+Research & Development,Manager,46-60,Very High,Travel Rarely,No,0,0.0,3349080.0,679.27,Low,858,Umang Krishna
+Human Resources,Human Resources,36-45,High,Travel Rarely,No,0,0.232,1150020.0,266476.3,High,551,Siya Behl
+Sales,Manager,46-60,Very High,Travel Rarely,Yes,0,0.034,3217500.0,108781.54,Medium,1374,Dalbir Datta
+Sales,Sales Representative,18-25,Low,Travel Rarely,No,0,0.142,377280.0,53635.62,Medium,478,Manan Dasgupta
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.059,1320480.0,77452.24,Medium,836,Vaishnavi Dube
+Research & Development,Laboratory Technician,36-45,Medium,Non-Travel,No,0,0.043,569160.0,24318.26,Low,1042,Raagini Sura
+Sales,Sales Executive,36-45,High,Travel Rarely,Yes,0,0.269,1274760.0,343014.14,High,1196,Sneha Tella
+Human Resources,Human Resources,36-45,High,Travel Rarely,No,0,0.173,1077300.0,186834.65,High,493,Dhruv Barad
+Research & Development,Research Scientist,26-35,High,Travel Rarely,No,0,0.019,931500.0,17931.93,Low,626,Ishanvi Chaudhry
+Research & Development,Laboratory Technician,26-35,Medium,Travel Frequently,No,0,0.039,721980.0,28268.69,Low,44,Widisha Bhattacharyya
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,No,0,0.004,1078740.0,4172.35,Low,59,Neelima Sheth
+Research & Development,Research Scientist,18-25,Low,Travel Rarely,No,0,0.056,221760.0,12344.22,Low,23,Chavvi Shan
+Sales,Sales Executive,36-45,Very High,Travel Rarely,No,1,0.549,2401380.0,1317405.3,High,1403,Balvan Krishnamurthy
+Sales,Sales Representative,26-35,Low,Travel Rarely,No,0,0.399,445680.0,178036.25,High,381,Aachal Deep
+Sales,Sales Executive,36-45,High,Travel Rarely,No,0,0.038,1337040.0,50685.0,Medium,115,Ojas Batra
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,Yes,0,0.061,1285740.0,77831.0,Medium,342,Dominic Butala
+Sales,Sales Executive,26-35,Very High,Travel Rarely,No,0,0.02,1551600.0,31071.8,Medium,1063,Mitali Rai
+Research & Development,Research Scientist,36-45,Medium,Non-Travel,Yes,0,0.141,800820.0,112661.44,Medium,398,Varenya Sengupta
+Sales,Sales Executive,46-60,Medium,Travel Rarely,Yes,0,0.15,826380.0,123638.36,Medium,1067,Jairaj Kaur
+Sales,Sales Executive,46-60,Very High,Travel Rarely,Yes,0,0.091,1632780.0,149137.8,High,433,Eesha Halder
+Research & Development,Manager,46-60,Very High,Travel Rarely,Yes,0,0.086,3428100.0,295049.83,High,270,Ekantika Buch
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,No,0,0.001,1377900.0,1556.28,Low,809,Leela Mammen
+Sales,Sales Executive,46-60,High,Travel Rarely,No,0,0.005,1377720.0,6276.04,Low,607,Chasmum Ramachandran
+Sales,Sales Representative,26-35,Low,Travel Rarely,No,0,0.117,456120.0,53493.46,Medium,970,Avni Comar
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,No,0,0.013,1979820.0,25069.48,Low,736,Samarth Shankar
+Sales,Sales Executive,36-45,Very High,Travel Rarely,Yes,0,0.089,1573200.0,139973.43,High,807,Alexander Andra
+Research & Development,Manufacturing Director,46-60,High,Non-Travel,No,0,0.002,946440.0,2283.67,Low,365,Xavier Kashyap
+Sales,Sales Executive,26-35,Medium,Travel Frequently,No,0,0.372,836640.0,311352.13,High,1319,Idika Chaudry
+Research & Development,Research Director,36-45,Very High,Travel Rarely,No,0,0.019,2459520.0,45636.01,Medium,78,Shivansh Mallick
+Research & Development,Manager,36-45,Very High,Travel Rarely,No,0,0.006,3456360.0,20086.44,Low,244,Wishi Kaur
+Sales,Sales Executive,26-35,High,Travel Rarely,Yes,1,0.703,979200.0,688497.81,High,1167,Unnati Dua
+Research & Development,Laboratory Technician,36-45,High,Travel Rarely,Yes,1,0.731,1038420.0,759081.14,High,1142,Wyatt Bhagat
+Sales,Sales Executive,26-35,High,Non-Travel,No,0,0.009,1247760.0,10763.16,Low,679,Faraj Salvi
+Research & Development,Manufacturing Director,26-35,Very High,Travel Rarely,No,0,0.075,1792260.0,134469.85,Medium,782,Pushti Saini
+Research & Development,Laboratory Technician,36-45,Low,Travel Frequently,Yes,0,0.224,306360.0,68637.63,Medium,416,Aarush Kaul
+Research & Development,Research Scientist,36-45,Medium,Travel Rarely,No,0,0.109,621360.0,67856.92,Medium,141,Darika Pandit
+Sales,Sales Executive,46-60,High,Travel Frequently,No,0,0.197,985140.0,194394.55,High,70,Widisha Bajwa
+Research & Development,Manufacturing Director,26-35,Very High,Travel Rarely,No,0,0.015,1796400.0,26753.7,Low,15,Rajata Srinivas
+Research & Development,Manager,46-60,Very High,Travel Rarely,No,0,0.011,2768220.0,30427.26,Medium,1195,Rayaan Badami
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,No,0,0.222,690840.0,153328.42,High,1066,Idika Shenoy
+Research & Development,Research Scientist,46-60,Low,Travel Rarely,No,0,0.013,371880.0,4789.39,Low,1023,Qarin Mahajan
+Research & Development,Healthcare Representative,26-35,Very High,Travel Rarely,No,0,0.001,1530000.0,1601.66,Low,958,Hamsini De
+Research & Development,Laboratory Technician,46-60,Low,Travel Frequently,No,0,0.344,510840.0,175834.75,High,930,Gauri Rege
+Research & Development,Manufacturing Director,46-60,Very High,Non-Travel,Yes,0,0.017,2333700.0,39914.8,Medium,1268,Ethan Bandi
+Research & Development,Manufacturing Director,36-45,High,Travel Frequently,Yes,1,0.558,1076400.0,600133.28,High,578,Triveni Srinivas
+Human Resources,Human Resources,18-25,Low,Travel Rarely,No,1,0.521,461520.0,240664.17,High,422,Radhika Mittal
+Sales,Sales Executive,18-25,High,Travel Rarely,No,0,0.059,891000.0,52975.19,Medium,885,Rachita Jha
+Research & Development,Healthcare Representative,36-45,Very High,Travel Frequently,No,0,0.054,2190420.0,118419.9,Medium,813,Yug Puri
+Research & Development,Healthcare Representative,36-45,Medium,Travel Rarely,No,0,0.073,819540.0,60084.68,Medium,526,Priya Narayan
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.125,1247220.0,155817.81,High,303,Vansha Lall
+Research & Development,Laboratory Technician,26-35,Medium,Travel Frequently,No,0,0.024,686160.0,16378.76,Low,1318,Janani Sarkar
+Research & Development,Research Scientist,18-25,Low,Non-Travel,No,0,0.064,272520.0,17439.5,Low,1311,Daksha Thakur
+Sales,Sales Executive,46-60,Very High,Travel Frequently,No,0,0.08,1847880.0,147689.79,High,427,Ekansh Loke
+Research & Development,Research Scientist,26-35,Medium,Travel Frequently,No,0,0.182,811440.0,147982.63,High,792,Bhanumati Kade
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,No,0,0.013,795600.0,10623.94,Low,843,Advik Dhawan
+Research & Development,Laboratory Technician,26-35,High,Travel Rarely,No,0,0.313,977220.0,306281.02,High,979,Ira Kurian
+Research & Development,Research Scientist,18-25,Medium,Travel Rarely,No,0,0.066,581400.0,38299.03,Medium,274,Mohini Toor
+Research & Development,Healthcare Representative,26-35,Very High,Travel Frequently,No,0,0.154,1768320.0,271664.92,High,439,Dayita Chaudry
+Human Resources,Human Resources,36-45,Low,Travel Rarely,Yes,0,0.256,485280.0,124384.36,Medium,350,Wishi Balan
+Research & Development,Manufacturing Director,46-60,Very High,Travel Rarely,Yes,0,0.016,2515140.0,39095.59,Medium,721,Wakeeta Sagar
+Research & Development,Laboratory Technician,26-35,Low,Travel Frequently,Yes,1,0.703,387720.0,272474.04,High,921,Hitesh Panchal
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,Yes,0,0.066,1333080.0,87725.89,Medium,451,Yauvani Patil
+Research & Development,Manufacturing Director,36-45,Medium,Non-Travel,No,0,0.001,787320.0,1034.8,Low,1182,Anthony Rattan
+Sales,Sales Executive,26-35,Very High,Travel Frequently,No,0,0.044,1570680.0,69855.18,Medium,43,Radhika Mukhopadhyay
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,Yes,0,0.003,2513880.0,6344.25,Low,1181,Omisha Thakur
+Research & Development,Research Scientist,26-35,Low,Non-Travel,No,0,0.031,489240.0,15179.93,Low,1260,Janani Nayak
+Research & Development,Research Scientist,46-60,Medium,Travel Frequently,No,0,0.023,876420.0,20036.93,Low,332,Daniel Kurian
+Research & Development,Laboratory Technician,18-25,Low,Travel Frequently,No,1,0.793,472500.0,374579.12,High,915,Dipta Lanka
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,No,0,0.083,532080.0,44058.14,Medium,101,Nidra Gandhi
+Sales,Sales Executive,18-25,High,Travel Rarely,Yes,1,0.659,1033920.0,681504.43,High,107,Lucky Basak
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.021,987120.0,20256.87,Low,306,Fariq Sheth
+Sales,Sales Executive,46-60,Very High,Travel Rarely,No,0,0.018,1817280.0,31994.71,Medium,1031,Kashvi Shere
+Research & Development,Research Scientist,46-60,Medium,Travel Rarely,Yes,0,0.06,766260.0,45835.02,Medium,175,Girindra Atwal
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,Yes,1,0.683,671400.0,458646.23,High,239,Reva Upadhyay
+Sales,Sales Executive,36-45,High,Travel Rarely,Yes,0,0.226,1101600.0,248636.77,High,986,Vihaan Banik
+Research & Development,Laboratory Technician,18-25,Medium,Travel Rarely,No,0,0.237,725580.0,172114.75,High,405,Abdul Dhaliwal
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.138,1502280.0,207113.68,High,1247,Omya Vig
+Research & Development,Laboratory Technician,18-25,Low,Travel Rarely,No,0,0.138,454140.0,62729.99,Medium,128,Victor Handa
+Research & Development,Research Director,46-60,Very High,Travel Rarely,No,0,0.001,3532860.0,3733.72,Low,770,Azad Sandhu
+Research & Development,Laboratory Technician,26-35,Low,Travel Rarely,No,0,0.025,426600.0,10456.66,Low,351,Rohan Mane
+Research & Development,Manufacturing Director,36-45,Medium,Travel Rarely,No,0,0.022,873900.0,19268.09,Low,1112,Bahadurjit Luthra
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.03,960660.0,28832.94,Low,462,Vritti Dhar
+Sales,Sales Executive,36-45,High,Non-Travel,No,0,0.002,927720.0,2182.55,Low,1314,Sarthak Sankar
+Research & Development,Laboratory Technician,46-60,Low,Travel Rarely,Yes,0,0.375,465660.0,174409.79,High,1192,Vrishti Bal
+Research & Development,Laboratory Technician,26-35,Medium,Travel Rarely,No,0,0.007,717480.0,5089.31,Low,1208,Barkha Wable
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,Yes,0,0.282,1237860.0,349191.4,High,602,Nidhi Doshi
+Research & Development,Laboratory Technician,26-35,Low,Travel Rarely,No,0,0.198,397080.0,78684.01,Medium,32,Hemangini Badal
+Research & Development,Research Scientist,36-45,Medium,Travel Rarely,No,0,0.021,702360.0,15089.88,Low,1335,Advaith Vala
+Research & Development,Manager,46-60,Very High,Travel Rarely,No,0,0.128,3068280.0,392939.23,High,425,Ridhi Seth
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,No,0,0.012,1457100.0,18044.71,Low,344,Harshil Ramachandran
+Research & Development,Research Scientist,36-45,High,Travel Rarely,Yes,0,0.103,1075320.0,110865.5,Medium,353,Ekanta Amble
+Research & Development,Manager,36-45,Very High,Travel Rarely,No,0,0.023,3028140.0,68160.53,Medium,1348,Harsh Devi
+Research & Development,Laboratory Technician,26-35,Low,Travel Rarely,Yes,1,0.527,478800.0,252121.59,High,1422,Vedhika Datta
+Research & Development,Laboratory Technician,18-25,Medium,Travel Rarely,No,1,0.554,647460.0,358963.82,High,841,Chakradhar Ram
+Research & Development,Research Scientist,26-35,High,Travel Rarely,No,0,0.037,909900.0,34077.31,Medium,322,Osha Narasimhan
+Sales,Sales Representative,26-35,Low,Travel Rarely,Yes,0,0.316,415440.0,131431.07,Medium,1087,Aadhya Banerjee
+Research & Development,Research Scientist,26-35,High,Travel Rarely,No,0,0.077,987120.0,75731.72,Medium,1117,Ayush Batra
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,Yes,0,0.043,1699020.0,73245.28,Medium,163,Aarush Handa
+Sales,Sales Executive,36-45,Very High,Travel Rarely,Yes,0,0.072,1880460.0,136111.74,High,1295,Fiyaz Prabhu
+Research & Development,Research Scientist,18-25,Medium,Travel Frequently,Yes,1,0.752,676800.0,508749.41,High,1168,Charan Dara
+Research & Development,Manufacturing Director,46-60,Very High,Travel Rarely,Yes,0,0.128,2412360.0,308496.86,High,976,Abdul Peri
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.052,945540.0,49540.06,Medium,374,Ryan Kari
+Research & Development,Manager,36-45,Very High,Travel Rarely,No,0,0.002,3461760.0,7138.28,Low,231,Manthan Warrior
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,No,0,0.052,1507680.0,78988.04,Medium,1079,Pooja Narain
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.022,1443600.0,31987.17,Medium,297,Caleb Rattan
+Research & Development,Research Scientist,26-35,Low,Non-Travel,No,0,0.003,307080.0,903.65,Low,615,Ishaan Badal
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,Yes,0,0.311,1430100.0,444904.3,High,1164,Imaran Vaidya
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,No,0,0.025,1889280.0,46610.13,Medium,367,Manbir Grewal
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,No,0,0.002,1606680.0,3818.53,Low,1298,Baghyawati Garg
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,No,0,0.008,658800.0,5112.12,Low,788,Upma Bora
+Research & Development,Healthcare Representative,36-45,High,Travel Rarely,No,0,0.001,1172340.0,864.85,Low,1299,Kavya Loyal
+Sales,Sales Executive,46-60,High,Travel Rarely,No,0,0.119,1374660.0,163750.85,High,63,Ethan Ramaswamy
+Human Resources,Human Resources,26-35,High,Travel Rarely,No,0,0.264,1437840.0,378912.36,High,1005,Oliver Dutta
+Research & Development,Research Scientist,36-45,High,Travel Rarely,Yes,0,0.337,973800.0,328434.51,High,1419,Samaksh Acharya
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,No,0,0.052,1178820.0,60982.28,Medium,1073,Kamala Mani
+Research & Development,Research Scientist,36-45,Low,Non-Travel,No,0,0.044,412200.0,18289.08,Low,862,Gauri Wable
+Research & Development,Laboratory Technician,46-60,Low,Travel Rarely,No,0,0.309,460620.0,142130.36,High,901,Ikshita Doshi
+Research & Development,Manager,36-45,Very High,Travel Frequently,No,0,0.067,3317400.0,220942.0,High,584,Pushti Pai
+Research & Development,Laboratory Technician,26-35,High,Travel Rarely,No,0,0.017,965340.0,16152.49,Low,973,Arin Nanda
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,No,0,0.026,1179540.0,30316.66,Low,198,Indira Bava
+Research & Development,Laboratory Technician,36-45,Medium,Non-Travel,No,0,0.243,667440.0,162097.18,High,543,Saksham Mittal
+Sales,Sales Executive,26-35,High,Travel Frequently,No,0,0.022,894240.0,19302.78,Low,820,Bachittar Pant
+Sales,Sales Executive,26-35,Medium,Travel Rarely,Yes,0,0.419,816840.0,342443.34,High,917,Yashawini Gupta
+Human Resources,Manager,36-45,Very High,Travel Rarely,No,0,0.007,3454020.0,24359.86,Low,538,Arjun Sarraf
+Research & Development,Research Director,46-60,Very High,Travel Rarely,No,0,0.0,2666520.0,922.17,Low,534,Hardik Issac
+Research & Development,Laboratory Technician,26-35,Low,Travel Rarely,No,0,0.104,449280.0,46762.09,Medium,30,Balveer Rattan
+Sales,Sales Executive,26-35,Very High,Travel Frequently,No,0,0.075,1632420.0,121988.68,Medium,56,Riya Sathe
+Research & Development,Laboratory Technician,26-35,Low,Non-Travel,No,0,0.011,462600.0,5155.79,Low,1206,Kalpit Lala
+Research & Development,Laboratory Technician,36-45,Medium,Travel Frequently,No,0,0.116,661140.0,76790.7,Medium,1050,Arya Chawla
+Research & Development,Manager,46-60,Very High,Travel Rarely,No,0,0.082,3521880.0,287812.41,High,411,Oscar Bhakta
+Research & Development,Healthcare Representative,36-45,Very High,Travel Frequently,Yes,0,0.189,1822320.0,343885.73,High,1093,Unni Murthy
+Sales,Sales Representative,26-35,Low,Travel Frequently,No,0,0.178,423180.0,75120.81,Medium,415,Advaith Grover
+Research & Development,Laboratory Technician,18-25,Medium,Travel Rarely,No,0,0.031,660420.0,20714.95,Low,965,Brinda Dhillon
+Sales,Sales Executive,36-45,High,Travel Rarely,No,0,0.243,1323180.0,321817.06,High,811,Charan Hari
+Research & Development,Manufacturing Director,26-35,Very High,Non-Travel,No,0,0.026,1788480.0,47366.18,Medium,1463,Jai Yohannan
+Research & Development,Laboratory Technician,26-35,Low,Non-Travel,No,0,0.018,461520.0,8487.68,Low,426,Yashawini Chowdhury
+Sales,Sales Executive,36-45,High,Non-Travel,No,0,0.011,1197540.0,13590.13,Low,358,Chasmum Karan
+Research & Development,Healthcare Representative,36-45,High,Travel Rarely,No,0,0.002,1147860.0,2650.95,Low,978,Lucky Brar
+Human Resources,Human Resources,26-35,High,Travel Rarely,No,1,0.542,1153800.0,625003.28,High,310,Balveer Lal
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,No,0,0.0,1883880.0,806.19,Low,1054,Pavani Mohan
+Research & Development,Laboratory Technician,36-45,Low,Non-Travel,No,0,0.04,367560.0,14753.26,Low,99,Urvi Memon
+Research & Development,Laboratory Technician,18-25,Low,Travel Frequently,Yes,1,0.524,519480.0,272452.02,High,479,Yashasvi Sachdev
+Research & Development,Research Director,36-45,Very High,Non-Travel,Yes,0,0.003,2448540.0,7954.56,Low,275,Girindra Mane
+Sales,Sales Executive,26-35,High,Travel Frequently,No,1,0.919,1037700.0,953606.54,High,1057,Mekhala Butala
+Research & Development,Manufacturing Director,36-45,High,Travel Frequently,No,0,0.155,957780.0,148745.04,High,1418,Falak Mahal
+Research & Development,Research Scientist,26-35,Low,Travel Rarely,Yes,0,0.365,402300.0,146750.11,High,889,Wyatt Sunder
+Sales,Sales Executive,26-35,Medium,Travel Rarely,No,0,0.052,860220.0,45150.19,Medium,1013,Rachita Chand
+Research & Development,Research Scientist,26-35,High,Travel Rarely,No,0,0.036,1058040.0,38420.88,Medium,1101,Wridesh Verma
+Sales,Sales Executive,26-35,Very High,Non-Travel,Yes,0,0.09,1867860.0,168092.16,High,888,Peter Varghese
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,No,0,0.056,621360.0,34496.47,Medium,712,Jeremiah Merchant
+Research & Development,Laboratory Technician,36-45,High,Travel Frequently,No,1,0.679,916920.0,622377.07,High,601,George Golla
+Sales,Sales Executive,26-35,Medium,Travel Rarely,No,0,0.171,761940.0,129911.44,Medium,482,Chakrika Subramanian
+Research & Development,Manager,36-45,Very High,Travel Frequently,No,0,0.064,3250980.0,206493.08,High,936,Harsh Shankar
+Sales,Sales Executive,26-35,Very High,Travel Rarely,No,0,0.139,1779840.0,246627.97,High,1384,Nicholas Som
+Research & Development,Laboratory Technician,36-45,Medium,Travel Rarely,No,1,0.559,768960.0,430151.75,High,824,Rachana Mammen
+Research & Development,Laboratory Technician,36-45,Medium,Travel Rarely,No,0,0.006,552420.0,3231.5,Low,1155,Ranbir Sule
+Research & Development,Healthcare Representative,46-60,High,Non-Travel,No,0,0.0,1135080.0,239.81,Low,1441,Vasudha Bala
+Research & Development,Laboratory Technician,18-25,Medium,Travel Rarely,Yes,0,0.169,664380.0,112425.88,Medium,796,Ekiya Nayak
+Research & Development,Manufacturing Director,46-60,Very High,Travel Rarely,Yes,0,0.06,2470680.0,147128.92,High,743,Pavani Luthra
+Research & Development,Manager,36-45,Very High,Travel Rarely,Yes,0,0.01,3512340.0,34990.32,Medium,497,Nihal Vohra
+Research & Development,Laboratory Technician,26-35,Low,Travel Rarely,No,0,0.099,487260.0,48385.23,Medium,236,Priya Nagy
+Human Resources,Human Resources,26-35,Medium,Travel Frequently,No,0,0.028,808200.0,23003.93,Low,923,Yoshita Raju
+Sales,Sales Executive,26-35,High,Travel Rarely,No,1,0.674,958680.0,645921.94,High,573,Brinda More
+Research & Development,Manager,36-45,Very High,Travel Rarely,No,0,0.007,3454200.0,24494.65,Low,922,Gopal Palan
+Research & Development,Manufacturing Director,36-45,Very High,Travel Rarely,No,0,0.008,1698120.0,13620.39,Low,506,Rayaan Bajaj
+Research & Development,Manufacturing Director,46-60,Medium,Travel Rarely,Yes,0,0.38,799200.0,303943.43,High,1406,Lajita Loyal
+Research & Development,Research Scientist,26-35,Low,Travel Rarely,No,0,0.009,498240.0,4565.8,Low,432,Harish Singhal
+Research & Development,Laboratory Technician,36-45,High,Travel Frequently,Yes,1,0.69,1001160.0,690478.92,High,1128,David Deshpande
+Research & Development,Healthcare Representative,36-45,Medium,Non-Travel,No,0,0.009,877680.0,7559.88,Low,208,Suhani Sangha
+Sales,Sales Executive,46-60,High,Travel Frequently,No,0,0.016,970200.0,15907.87,Low,1468,Rayaan Naidu
+Research & Development,Laboratory Technician,36-45,High,Non-Travel,No,0,0.272,1220760.0,332584.39,High,816,Manan Sankaran
+Human Resources,Manager,36-45,Very High,Travel Rarely,No,0,0.11,3445380.0,379288.27,High,535,Niharika Yohannan
+Sales,Manager,46-60,Very High,Non-Travel,Yes,1,0.507,3432240.0,1741702.71,High,237,Eesha Shankar
+Research & Development,Laboratory Technician,26-35,High,Travel Rarely,No,0,0.006,1064700.0,6410.28,Low,58,Ekiya Sengupta
+Research & Development,Manufacturing Director,36-45,High,Travel Rarely,Yes,0,0.121,1172880.0,141771.18,High,1229,Libni Dhar
+Research & Development,Research Scientist,26-35,High,Travel Rarely,No,0,0.002,1039500.0,1871.2,Low,324,Chasmum Dasgupta
+Research & Development,Research Scientist,26-35,Low,Travel Rarely,No,0,0.132,396180.0,52379.76,Medium,371,Nirja Lad
+Research & Development,Research Scientist,46-60,Low,Travel Rarely,No,0,0.097,446220.0,43091.04,Medium,700,Bishakha Narang
+Research & Development,Research Scientist,36-45,Medium,Travel Frequently,Yes,1,0.505,651060.0,328508.12,High,691,Yashasvi Lata
+Research & Development,Research Director,36-45,Very High,Travel Rarely,No,0,0.001,3168540.0,3558.41,Low,1185,Anusha Palla
+Sales,Sales Executive,36-45,High,Travel Rarely,No,0,0.062,1140120.0,70210.92,Medium,628,Eshana Vora
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,Yes,0,0.048,644220.0,31156.63,Medium,886,Patrick Rama
+Research & Development,Research Scientist,26-35,Low,Non-Travel,No,0,0.026,229320.0,5959.46,Low,1052,Anjali Mukherjee
+Research & Development,Healthcare Representative,26-35,High,Travel Frequently,No,0,0.159,911340.0,145072.54,High,1131,Arin Parsa
+Sales,Sales Executive,26-35,Very High,Travel Frequently,No,0,0.136,1799640.0,243870.96,High,990,Ishani Goswami
+Research & Development,Laboratory Technician,46-60,High,Travel Rarely,No,0,0.086,1332540.0,113983.09,Medium,677,Aryan Talwar
+Sales,Manager,46-60,Very High,Travel Rarely,No,0,0.001,3513060.0,3089.98,Low,233,Ikshita Raj
+Sales,Sales Executive,26-35,Very High,Non-Travel,No,0,0.014,1514160.0,21312.28,Low,423,Chakrika Sawhney
+Research & Development,Laboratory Technician,26-35,Medium,Travel Frequently,No,0,0.396,796500.0,315785.4,High,196,Aadi Sandal
+Sales,Sales Executive,46-60,High,Non-Travel,No,0,0.085,896040.0,76282.09,Medium,1234,Jagdish D’Alia
+Research & Development,Research Scientist,26-35,Low,Travel Rarely,No,0,0.066,514620.0,33984.02,Medium,81,Dipta Ramachandran
+Research & Development,Research Director,46-60,Very High,Travel Frequently,No,0,0.001,3448980.0,3893.65,Low,1377,Mitali Nanda
+Research & Development,Laboratory Technician,36-45,Medium,Travel Rarely,No,0,0.199,877680.0,174621.46,High,1133,Gagan Das
+Research & Development,Laboratory Technician,26-35,High,Travel Frequently,Yes,1,0.81,1093320.0,885568.92,High,111,Hema Bir
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.041,1285200.0,52729.35,Medium,1251,Lakshmi Oommen
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.063,985680.0,61774.36,Medium,1191,Guneet Wali
+Human Resources,Human Resources,46-60,Medium,Travel Rarely,No,0,0.064,616140.0,39154.67,Medium,943,Jai Bansal
+Research & Development,Manufacturing Director,36-45,Medium,Travel Rarely,No,0,0.024,857700.0,20988.4,Low,661,Yash Divan
+Research & Development,Laboratory Technician,36-45,High,Non-Travel,Yes,0,0.021,1164960.0,24303.72,Low,1240,Deepa Reddy
+Sales,Sales Executive,36-45,Very High,Travel Rarely,No,0,0.057,1663380.0,94561.99,Medium,1218,Zayyan Narang
+Research & Development,Research Scientist,46-60,Medium,Non-Travel,No,0,0.004,766440.0,2884.91,Low,570,Rayaan Vasa
+Sales,Sales Executive,26-35,Medium,Non-Travel,Yes,0,0.439,852480.0,374386.83,High,354,Elijah Vohra
+Research & Development,Research Scientist,46-60,Low,Travel Rarely,No,0,0.191,426060.0,81217.56,Medium,1114,Ekani Aurora
+Research & Development,Healthcare Representative,26-35,Very High,Travel Rarely,No,0,0.009,1748700.0,16128.6,Low,1090,Azad Hans
+Research & Development,Healthcare Representative,46-60,Very High,Travel Rarely,Yes,0,0.189,2513520.0,475668.53,High,316,Meera Dey
+Research & Development,Research Scientist,26-35,Medium,Travel Rarely,No,0,0.011,535860.0,5883.79,Low,1458,Manan Soni
+Sales,Sales Executive,26-35,Medium,Travel Frequently,No,0,0.192,881640.0,169571.01,High,1070,Christopher Vyas
+Research & Development,Laboratory Technician,26-35,Low,Non-Travel,No,0,0.058,419760.0,24140.61,Low,682,Zinal Choudhury
+Research & Development,Manufacturing Director,26-35,Medium,Travel Rarely,No,0,0.006,775080.0,4603.43,Low,394,Zinal Sehgal
+Sales,Sales Executive,26-35,High,Travel Rarely,No,0,0.014,1129320.0,15494.06,Low,567,Krisha Mukhopadhyay
+Research & Development,Manufacturing Director,26-35,High,Travel Rarely,No,0,0.024,921780.0,22120.49,Low,560,Sai Dhingra
+Research & Development,Research Director,46-60,Very High,Travel Rarely,Yes,0,0.028,3038400.0,83898.16,Medium,945,Xalak Dugal
+Research & Development,Research Scientist,36-45,Medium,Travel Rarely,No,0,0.042,842400.0,34983.06,Medium,522,Neel Bandi
+Sales,Sales Executive,46-60,Medium,Travel Rarely,Yes,0,0.067,816660.0,54678.94,Medium,651,Indali Desai
