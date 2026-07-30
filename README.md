@@ -119,7 +119,7 @@ Ranks features based on their contribution to the model.
 ### Individual Employee Explanation
 
 <p align="center">
-<img src="images/shap/SHAP_Individual_Employee.png" width="80%">
+<img src="images/shap/SHAP_Individual_Waterfall.png" width="80%">
 </p>
 
 Provides employee-specific explanations showing which factors increase or decrease attrition risk.
