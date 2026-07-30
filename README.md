@@ -218,8 +218,9 @@ An interactive demonstration of the Power BI dashboard is available here:
 # Author
 
 **Ashton D'Souza**
+**Sheik Nihad**
 
-Bachelor of Business Administration (Business Analytics)
+Bachelor of Business Analytics
 
 Passionate about Machine Learning, Explainable AI, Data Analytics, and Business Intelligence.
 
