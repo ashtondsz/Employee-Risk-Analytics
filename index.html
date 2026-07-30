@@ -1,49 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <title>Employee Attrition Dashboard</title>
 
-    <style>
-        body{
-            margin:0;
-            font-family:Arial;
-            background:#eef5ff;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        header{
-            background:#0B5ED7;
-            color:white;
-            padding:30px;
-            text-align:center;
-        }
+<title>Employee Risk Analytics</title>
 
-        h1{
-            margin:0;
-        }
+<style>
 
-        p{
-            font-size:18px;
-        }
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#eef5ff;
+    color:#333;
+}
 
-        iframe{
-            width:100%;
-            height:900px;
-            border:none;
-        }
+header{
+    background:#0B5ED7;
+    color:white;
+    text-align:center;
+    padding:40px 20px;
+}
 
-        .container{
-            width:95%;
-            margin:auto;
-            padding:20px;
-        }
+header h1{
+    margin:0;
+    font-size:40px;
+}
 
-        .card{
-            background:white;
-            border-radius:12px;
-            box-shadow:0 5px 15px rgba(0,0,0,.1);
-            padding:20px;
-        }
-    </style>
+header p{
+    font-size:18px;
+    margin-top:12px;
+}
+
+.button{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:white;
+    color:#0B5ED7;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.button:hover{
+    background:#dbe8ff;
+}
+
+.container{
+    width:92%;
+    max-width:1400px;
+    margin:auto;
+    padding:30px 0;
+}
+
+.card{
+    background:white;
+    border-radius:14px;
+    box-shadow:0 5px 18px rgba(0,0,0,.12);
+    padding:30px;
+    margin-bottom:30px;
+}
+
+.card h2{
+    color:#0B5ED7;
+    margin-top:0;
+}
+
+iframe{
+    width:100%;
+    height:85vh;
+    border:none;
+    border-radius:10px;
+}
+
+footer{
+    text-align:center;
+    padding:25px;
+    color:#666;
+    font-size:14px;
+}
+
+</style>
 
 </head>
 
@@ -51,11 +92,19 @@
 
 <header>
 
-<h1>Employee Attrition & Financial Risk Prediction System</h1>
+<h1>Employee Risk Analytics</h1>
 
 <p>
-Interactive Power BI Dashboard
+Explainable Employee Attrition & Financial Risk Prediction System using Logistic Regression, SHAP & Power BI
 </p>
+
+<a class="button"
+href="https://github.com/ashtondsz/Employee-Risk-Analytics"
+target="_blank">
+
+View Source Code on GitHub
+
+</a>
 
 </header>
 
@@ -63,11 +112,40 @@ Interactive Power BI Dashboard
 
 <div class="card">
 
-<iframe title="Page1,2,3" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=96e966c5-6a4c-4d47-aa0e-a997128bbdb4&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f" frameborder="0" allowFullScreen="true"></iframe>
+<h2>Project Overview</h2>
+
+<p>
+
+This project predicts employee attrition using Logistic Regression,
+explains individual predictions through SHAP (Explainable AI),
+estimates the financial impact of employee turnover,
+and presents actionable insights through an interactive Power BI dashboard.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Interactive Dashboard</h2>
+
+<iframe
+title="Employee Risk Analytics Dashboard"
+src="https://app.powerbi.com/reportEmbed?reportId=96e966c5-6a4c-4d47-aa0e-a997128bbdb4&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f"
+allowfullscreen>
+
+</iframe>
 
 </div>
 
 </div>
+
+<footer>
+
+Built by Ashton D'Souza • Employee Risk Analytics • 2026
+
+</footer>
 
 </body>
+
 </html>
